@@ -2,9 +2,9 @@
 <?xml-stylesheet type="text/xsl" href="/assets/xslt/atom.xslt" ?>
 <?xml-stylesheet type="text/css" href="/assets/css/atom.css" ?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-	<id>http://localhost:4000/</id>
-	<title>Frank Pang’s Site</title>
-	<updated>2016-05-15T16:23:13-07:00</updated>
+	<id>https://frankpang.github.io//</id>
+	<title>Frank’s Site</title>
+	<updated>2016-05-15T17:37:06-07:00</updated>
 
 	<subtitle>This is my personal blog for discussing web, leadership, ba, design, and photography</subtitle>
 
@@ -21,16 +21,16 @@
 		</author>
 	
 
-	<link href="http://localhost:4000/atom.xml" rel="self" type="application/rss+xml" />
-	<link href="http://localhost:4000/" rel="alternate" type="text/html" />
+	<link href="https://frankpang.github.io//atom.xml" rel="self" type="application/rss+xml" />
+	<link href="https://frankpang.github.io//" rel="alternate" type="text/html" />
 
 	<generator uri="http://jekyllrb.com" version="3.1.2">Jekyll</generator>
 
 	
 		<entry>
-			<id>http://localhost:4000/design/brick-fonts/</id>
+			<id>https://frankpang.github.io//design/brick-fonts/</id>
 			<title>Brick Font Service</title>
-			<link href="http://localhost:4000/design/brick-fonts/" rel="alternate" type="text/html" title="Brick Font Service" />
+			<link href="https://frankpang.github.io//design/brick-fonts/" rel="alternate" type="text/html" title="Brick Font Service" />
 			<updated>2016-05-07T11:52:00-07:00</updated>
 
 			
@@ -46,7 +46,7 @@
 				</author>
 			
 			<summary>I hesitated to use Brick at first, but after looking through their catalogue and seeing how easy it is to include their fonts on my website, I would look there first instead of Google Fonts as a web font service.</summary>
-			<content type="html" xml:base="http://localhost:4000/design/brick-fonts/">&lt;p&gt;Premise: better looking fonts, uncompressed
+			<content type="html" xml:base="https://frankpang.github.io//design/brick-fonts/">&lt;p&gt;Premise: better looking fonts, uncompressed
 Served by fast CDN
 More variety, some choices such as Aileron are not available at Google Fonts.&lt;/p&gt;
 </content>
@@ -62,9 +62,9 @@ More variety, some choices such as Aileron are not available at Google Fonts.&lt
 		</entry>
 	
 		<entry>
-			<id>http://localhost:4000/design/free-font-guide/</id>
+			<id>https://frankpang.github.io//design/free-font-guide/</id>
 			<title>Free Guide for Combining Typefaces</title>
-			<link href="http://localhost:4000/design/free-font-guide/" rel="alternate" type="text/html" title="Free Guide for Combining Typefaces" />
+			<link href="https://frankpang.github.io//design/free-font-guide/" rel="alternate" type="text/html" title="Free Guide for Combining Typefaces" />
 			<updated>2016-05-04T22:26:00-07:00</updated>
 
 			
@@ -80,7 +80,7 @@ More variety, some choices such as Aileron are not available at Google Fonts.&lt
 				</author>
 			
 			<summary>The Pocket Guide to Combining Typefaces, once a paid eBook, is now free for download.</summary>
-			<content type="html" xml:base="http://localhost:4000/design/free-font-guide/">&lt;p&gt;Tim Brown’s combining typefaces guide is now a free &lt;a href=&quot;http://blog.typekit.com/2016/04/29/combining-typefaces-free-guide-to-great-typography/&quot; title=&quot;Tim Brown&#39;s Font eBook&quot;&gt;eBook&lt;/a&gt;!
+			<content type="html" xml:base="https://frankpang.github.io//design/free-font-guide/">&lt;p&gt;Tim Brown’s combining typefaces guide is now a free &lt;a href=&quot;http://blog.typekit.com/2016/04/29/combining-typefaces-free-guide-to-great-typography/&quot; title=&quot;Tim Brown&#39;s Font eBook&quot;&gt;eBook&lt;/a&gt;!
 Originally published in 2013, it’s a beautifully laid out, handy guide on fonts, their roles in your page design, and how to combine the fonts. I’ve only skimmed through the 63 page guide so far, but it looks to be quite useful.&lt;/p&gt;
 
 </content>
@@ -96,9 +96,9 @@ Originally published in 2013, it’s a beautifully laid out, handy guide on font
 		</entry>
 	
 		<entry>
-			<id>http://localhost:4000/webdev/nearing-launch/</id>
+			<id>https://frankpang.github.io//webdev/nearing-launch/</id>
 			<title>Getting ready for launch of website</title>
-			<link href="http://localhost:4000/webdev/nearing-launch/" rel="alternate" type="text/html" title="Getting ready for launch of website" />
+			<link href="https://frankpang.github.io//webdev/nearing-launch/" rel="alternate" type="text/html" title="Getting ready for launch of website" />
 			<updated>2016-04-30T22:59:00-07:00</updated>
 
 			
@@ -114,7 +114,7 @@ Originally published in 2013, it’s a beautifully laid out, handy guide on font
 				</author>
 			
 			<summary>The launch of my website draws near.</summary>
-			<content type="html" xml:base="http://localhost:4000/webdev/nearing-launch/">&lt;p&gt;I haven’t been reading up on CSS as much as I wanted to, as I’ve been busy with life and polishing up my site.&lt;/p&gt;
+			<content type="html" xml:base="https://frankpang.github.io//webdev/nearing-launch/">&lt;p&gt;I haven’t been reading up on CSS as much as I wanted to, as I’ve been busy with life and polishing up my site.&lt;/p&gt;
 
 &lt;p&gt;Despite the writing of my articles for my blog in the last four months, I still haven’t published my blog to the internet yet. So far, I’ve been running the pages on my Jeklyll server, testing the layout and editing articles. It’s not that I’m a perfectionist, it’s just that I want the site to look polished, even if it’s not the final design. I don’t want any glaring mistakes, and there are a few interface elements that I want to clean up so that it doesn’t look like something is missing from the site. I’m excited to get my blog finally published!&lt;/p&gt;
 </content>
@@ -128,9 +128,9 @@ Originally published in 2013, it’s a beautifully laid out, handy guide on font
 		</entry>
 	
 		<entry>
-			<id>http://localhost:4000/webdev/reading-up-on-css/</id>
+			<id>https://frankpang.github.io//webdev/reading-up-on-css/</id>
 			<title>Reading up on CSS</title>
-			<link href="http://localhost:4000/webdev/reading-up-on-css/" rel="alternate" type="text/html" title="Reading up on CSS" />
+			<link href="https://frankpang.github.io//webdev/reading-up-on-css/" rel="alternate" type="text/html" title="Reading up on CSS" />
 			<updated>2016-04-18T22:56:00-07:00</updated>
 
 			
@@ -146,7 +146,7 @@ Originally published in 2013, it’s a beautifully laid out, handy guide on font
 				</author>
 			
 			<summary>After researching cool tools, frameworks, and apps, I want to get back to learning the fundamentals of web development and learn more about CSS</summary>
-			<content type="html" xml:base="http://localhost:4000/webdev/reading-up-on-css/">&lt;p&gt;I’ve learned some CSS through customizing the phlow template, but I think it’s time to go back to the CSS: The Missing Manual book to get an overview of CSS. The idea is to understand the fundamentals of CSS and to understand the capabilities of CSS.&lt;/p&gt;
+			<content type="html" xml:base="https://frankpang.github.io//webdev/reading-up-on-css/">&lt;p&gt;I’ve learned some CSS through customizing the phlow template, but I think it’s time to go back to the CSS: The Missing Manual book to get an overview of CSS. The idea is to understand the fundamentals of CSS and to understand the capabilities of CSS.&lt;/p&gt;
 </content>
 
 			
@@ -160,9 +160,9 @@ Originally published in 2013, it’s a beautifully laid out, handy guide on font
 		</entry>
 	
 		<entry>
-			<id>http://localhost:4000/design/web-page-editors/</id>
+			<id>https://frankpang.github.io//design/web-page-editors/</id>
 			<title>Web Page Design Apps</title>
-			<link href="http://localhost:4000/design/web-page-editors/" rel="alternate" type="text/html" title="Web Page Design Apps" />
+			<link href="https://frankpang.github.io//design/web-page-editors/" rel="alternate" type="text/html" title="Web Page Design Apps" />
 			<updated>2016-04-07T22:59:00-07:00</updated>
 
 			
@@ -178,7 +178,7 @@ Originally published in 2013, it’s a beautifully laid out, handy guide on font
 				</author>
 			
 			<summary>There’s a wealth of tools which can build web pages with a visual drag and drop interface. These tools can help get a prototype web page up and running quickly.</summary>
-			<content type="html" xml:base="http://localhost:4000/design/web-page-editors/">&lt;p&gt;As the site gets closer to a functioning blog, I started looking at ways to speed up page design and prototyping. I wanted a tool that would allow drag and drop of UI components and a visual editor, but at the same time produce some usable HTML code as well.&lt;/p&gt;
+			<content type="html" xml:base="https://frankpang.github.io//design/web-page-editors/">&lt;p&gt;As the site gets closer to a functioning blog, I started looking at ways to speed up page design and prototyping. I wanted a tool that would allow drag and drop of UI components and a visual editor, but at the same time produce some usable HTML code as well.&lt;/p&gt;
 
 &lt;p&gt;There are a lot of choices in this category. One of the more popular tools is &lt;a href=&quot;https://webflow.com/&quot; title=&quot;Webflow&quot;&gt;Webflow&lt;/a&gt;. It’s an entirely web based tool which features a slick interface with some cool templates to get you started designing. Webflow can also show how the pages will appear on different screen sizes, which can provide a basic way of testing for differnt devices. It’s not a comprehensive way of testing multiple devices, but it gives an idea of how the pages will look.&lt;/p&gt;
 
@@ -207,9 +207,9 @@ Originally published in 2013, it’s a beautifully laid out, handy guide on font
 		</entry>
 	
 		<entry>
-			<id>http://localhost:4000/webdev/jekyll-smartify/</id>
+			<id>https://frankpang.github.io//webdev/jekyll-smartify/</id>
 			<title>Jekyll Smartify</title>
-			<link href="http://localhost:4000/webdev/jekyll-smartify/" rel="alternate" type="text/html" title="Jekyll Smartify" />
+			<link href="https://frankpang.github.io//webdev/jekyll-smartify/" rel="alternate" type="text/html" title="Jekyll Smartify" />
 			<updated>2016-04-01T22:56:00-07:00</updated>
 
 			
@@ -225,7 +225,7 @@ Originally published in 2013, it’s a beautifully laid out, handy guide on font
 				</author>
 			
 			<summary>Sometimes there&#39;s an easy solution to your problem right under your nose; you just have to look for it (or read the manual).</summary>
-			<content type="html" xml:base="http://localhost:4000/webdev/jekyll-smartify/">&lt;p&gt;I was looking for ways to convert the quotes in my blog writeups to smart quotes and smart dashes. Sure, there’s keyboard shortcuts for proper quotation marks, but that’s not as fast as typing a single key. There is a useful Atom plugin that converts straight quotes to smart quotes as well. However, somewhere along the way, I might forget to do the conversion, and that’s where Jekyll’s enhancement to the Liquid templating engine comes in. The “smartify” filter converts straight quotes to smart quotes during page generation, so you can use straight quotes in the markdown page but they’ll get converted to proper quotation characters when Jekyll generates the pages.
+			<content type="html" xml:base="https://frankpang.github.io//webdev/jekyll-smartify/">&lt;p&gt;I was looking for ways to convert the quotes in my blog writeups to smart quotes and smart dashes. Sure, there’s keyboard shortcuts for proper quotation marks, but that’s not as fast as typing a single key. There is a useful Atom plugin that converts straight quotes to smart quotes as well. However, somewhere along the way, I might forget to do the conversion, and that’s where Jekyll’s enhancement to the Liquid templating engine comes in. The “smartify” filter converts straight quotes to smart quotes during page generation, so you can use straight quotes in the markdown page but they’ll get converted to proper quotation characters when Jekyll generates the pages.
 It works well with body text but it doesn’t smartify front matter text. For example if you have straight quotes defined in the page title variable, the smartify filter won’t convert that. It’s a small manual step to do, and not too much work.&lt;/p&gt;
 </content>
 
@@ -240,9 +240,9 @@ It works well with body text but it doesn’t smartify front matter text. For ex
 		</entry>
 	
 		<entry>
-			<id>http://localhost:4000/webdev/jekyll-tagging/</id>
+			<id>https://frankpang.github.io//webdev/jekyll-tagging/</id>
 			<title>Jekyll Tagging and Archives</title>
-			<link href="http://localhost:4000/webdev/jekyll-tagging/" rel="alternate" type="text/html" title="Jekyll Tagging and Archives" />
+			<link href="https://frankpang.github.io//webdev/jekyll-tagging/" rel="alternate" type="text/html" title="Jekyll Tagging and Archives" />
 			<updated>2016-03-26T22:52:00-07:00</updated>
 
 			
@@ -258,7 +258,7 @@ It works well with body text but it doesn’t smartify front matter text. For ex
 				</author>
 			
 			<summary>Automating the tag and category page generation took a bit more work than expected. During the troubleshooting I learned about how Jekyll generates the site’s pages.</summary>
-			<content type="html" xml:base="http://localhost:4000/webdev/jekyll-tagging/">&lt;p&gt;I’ve been struggling with Jekyll these past few days. I’m trying to get tag and category page generation working for my site. At first, I used the jekyll-tagging plugin, which only generates tag pages. I thought that was OK since I only had two categories and I could manually add category pages. The only snag was that the plugin didn’t read all of the front matter variables during page generation. For example, I wanted to set a variable to turn off the masthead in the page layout using a variable set in the layout page’s front matter. For some reason, the plugin isn’t set up to read the variables. I played around with the jekyll-archives plugin as well but it also doesn’t read the front matter variable. It took a lot of debugging before I could get the Jekyll plugins to generate what I wanted. In that time, I learned some basic Ruby and had to read up in depth the flow of execution when Jekyll generates pages. While the debugging was somewhat frustrating, it was definitely an interesting learning experience on how flexible Jekyll is for allowing plugins for customized behavior.&lt;/p&gt;
+			<content type="html" xml:base="https://frankpang.github.io//webdev/jekyll-tagging/">&lt;p&gt;I’ve been struggling with Jekyll these past few days. I’m trying to get tag and category page generation working for my site. At first, I used the jekyll-tagging plugin, which only generates tag pages. I thought that was OK since I only had two categories and I could manually add category pages. The only snag was that the plugin didn’t read all of the front matter variables during page generation. For example, I wanted to set a variable to turn off the masthead in the page layout using a variable set in the layout page’s front matter. For some reason, the plugin isn’t set up to read the variables. I played around with the jekyll-archives plugin as well but it also doesn’t read the front matter variable. It took a lot of debugging before I could get the Jekyll plugins to generate what I wanted. In that time, I learned some basic Ruby and had to read up in depth the flow of execution when Jekyll generates pages. While the debugging was somewhat frustrating, it was definitely an interesting learning experience on how flexible Jekyll is for allowing plugins for customized behavior.&lt;/p&gt;
 </content>
 
 			
@@ -272,9 +272,9 @@ It works well with body text but it doesn’t smartify front matter text. For ex
 		</entry>
 	
 		<entry>
-			<id>http://localhost:4000/design/font-pairings/</id>
+			<id>https://frankpang.github.io//design/font-pairings/</id>
 			<title>Canva’s Guide to Font Pairings</title>
-			<link href="http://localhost:4000/design/font-pairings/" rel="alternate" type="text/html" title="Canva’s Guide to Font Pairings" />
+			<link href="https://frankpang.github.io//design/font-pairings/" rel="alternate" type="text/html" title="Canva’s Guide to Font Pairings" />
 			<updated>2016-03-22T22:20:00-07:00</updated>
 
 			
@@ -290,7 +290,7 @@ It works well with body text but it doesn’t smartify front matter text. For ex
 				</author>
 			
 			<summary>Choosing the right font combination for your website can be difficult. There are some good sites which provide some inspirations and ideas for font pairings.</summary>
-			<content type="html" xml:base="http://localhost:4000/design/font-pairings/">&lt;p&gt;I’ve been browsing the web for font inspirations and font combinations. Smashing magazine’s &lt;a href=&quot;https://www.smashingmagazine.com/2010/12/what-font-should-i-use-five-principles-for-choosing-and-using-typefaces/&quot; title=&quot;Smashing&#39;s Font Pairing Guide&quot;&gt;guide&lt;/a&gt; is a good start, and there’s also &lt;a href=&quot;http://fontpair.co/&quot; title=&quot;Font Pair&quot;&gt;Font Pair&lt;/a&gt; as well.&lt;/p&gt;
+			<content type="html" xml:base="https://frankpang.github.io//design/font-pairings/">&lt;p&gt;I’ve been browsing the web for font inspirations and font combinations. Smashing magazine’s &lt;a href=&quot;https://www.smashingmagazine.com/2010/12/what-font-should-i-use-five-principles-for-choosing-and-using-typefaces/&quot; title=&quot;Smashing&#39;s Font Pairing Guide&quot;&gt;guide&lt;/a&gt; is a good start, and there’s also &lt;a href=&quot;http://fontpair.co/&quot; title=&quot;Font Pair&quot;&gt;Font Pair&lt;/a&gt; as well.&lt;/p&gt;
 
 &lt;p&gt;I also found Canva’s &lt;a href=&quot;https://designschool.canva.com/blog/the-ultimate-guide-to-font-pairing/&quot; title=&quot;Canva&#39;s Font Pairing Guide&quot;&gt;guide&lt;/a&gt; to font pairings, which is a great guide for font pairings. It shows different font combinations with sample pages showing how the combinations apply to different types of sites (tech, gallery, fashion).
 It’s an inspirational and visual guide, with a variety of examples. The guide gives an overview of the fonts used and then gives some beautifully made sample designs to show how the fonts work. It’s a great start for design inspiration, and I like how they often give samples using the same font family. They really show how you can have a visual variety in the typography without using a different font family.&lt;/p&gt;
@@ -310,9 +310,9 @@ It’s an inspirational and visual guide, with a variety of examples. The guide 
 		</entry>
 	
 		<entry>
-			<id>http://localhost:4000/design/typecast-font-playground/</id>
+			<id>https://frankpang.github.io//design/typecast-font-playground/</id>
 			<title>Typecast Font Playground</title>
-			<link href="http://localhost:4000/design/typecast-font-playground/" rel="alternate" type="text/html" title="Typecast Font Playground" />
+			<link href="https://frankpang.github.io//design/typecast-font-playground/" rel="alternate" type="text/html" title="Typecast Font Playground" />
 			<updated>2016-03-18T16:04:00-07:00</updated>
 
 			
@@ -328,7 +328,7 @@ It’s an inspirational and visual guide, with a variety of examples. The guide 
 				</author>
 			
 			<summary>Typecast is a great way to play with font combinations. It’s not perfect, but it’s free, and includes all Google Fonts, which is a great start for a developer on a budget.</summary>
-			<content type="html" xml:base="http://localhost:4000/design/typecast-font-playground/">&lt;p&gt;After browsing the font sites, the fonts started looking the same. It was after some browsing that I wanted to find a way to better visualize how the fonts would look using actual text from my site, and through that search I found &lt;a href=&quot;http://typecast.com/&quot; title=&quot;typecast&quot;&gt;typecast&lt;/a&gt;.&lt;/p&gt;
+			<content type="html" xml:base="https://frankpang.github.io//design/typecast-font-playground/">&lt;p&gt;After browsing the font sites, the fonts started looking the same. It was after some browsing that I wanted to find a way to better visualize how the fonts would look using actual text from my site, and through that search I found &lt;a href=&quot;http://typecast.com/&quot; title=&quot;typecast&quot;&gt;typecast&lt;/a&gt;.&lt;/p&gt;
 
 &lt;p&gt;If codepen is a playground for experimenting with HTML, CSS, and JavaScript, then typecast is a playground for font combinations. With typecast, you can lay out a sample page with your text and play with font selections for various styles. It’s much faster than coding font selections on your website in HTML and reloading your page to see how the fonts look. Using typecast is a great way to preview fonts before adding them into your project, so it speeds up the design process. The great thing is that you can use Google Fonts in the typecast prototypes, which is great since I’m aiming to use free web fonts.&lt;/p&gt;
 
@@ -346,9 +346,9 @@ It’s an inspirational and visual guide, with a variety of examples. The guide 
 		</entry>
 	
 		<entry>
-			<id>http://localhost:4000/design/fonts-fonts-fonts/</id>
+			<id>https://frankpang.github.io//design/fonts-fonts-fonts/</id>
 			<title>Fonts, Fonts, and More Fonts</title>
-			<link href="http://localhost:4000/design/fonts-fonts-fonts/" rel="alternate" type="text/html" title="Fonts, Fonts, and More Fonts" />
+			<link href="https://frankpang.github.io//design/fonts-fonts-fonts/" rel="alternate" type="text/html" title="Fonts, Fonts, and More Fonts" />
 			<updated>2016-03-15T00:00:00-07:00</updated>
 
 			
@@ -364,7 +364,7 @@ It’s an inspirational and visual guide, with a variety of examples. The guide 
 				</author>
 			
 			<summary>As I got deeper into the design of my blog, looking for inspirations, and choosing a color scheme, I was drawn into the world of typography.</summary>
-			<content type="html" xml:base="http://localhost:4000/design/fonts-fonts-fonts/">&lt;p&gt;Before I had set out to design my website, I only had a passing interest for fonts. I wasn’t a font geek and I never studied the subject. My only exposure to the world of fonts was watching the documentary film “Helvetica” several years ago. I thought it was interesting, but it didn’t interest me enough to read more about fonts.&lt;/p&gt;
+			<content type="html" xml:base="https://frankpang.github.io//design/fonts-fonts-fonts/">&lt;p&gt;Before I had set out to design my website, I only had a passing interest for fonts. I wasn’t a font geek and I never studied the subject. My only exposure to the world of fonts was watching the documentary film “Helvetica” several years ago. I thought it was interesting, but it didn’t interest me enough to read more about fonts.&lt;/p&gt;
 
 &lt;p&gt;I got a lot more interested after I started looking into fonts for my site. There was something about fonts that made me obsessed. There’s something about admiring the design of the fonts and their form that had me hooked onto the subject. There’s a lot of good blogs on fonts, including TypeWolf and ilovetypeography.com. I also found a useful &lt;a href=&quot;https://prowebtype.com/&quot; title=&quot;Pro Web Type&quot;&gt;eBook&lt;/a&gt;, where I learned about the basic aspects of font design. The eBook cover topics such as font families, x-height, and apertures. The eBook also has a nice list of reference materials for further testing. It’s a great contribution by the author Donny Truong.&lt;/p&gt;
 
