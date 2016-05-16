@@ -13,8 +13,8 @@
 	<script src="https://use.typekit.net/zwx5mkv.js"></script>
 	<script>try{Typekit.load({ async: true });}catch(e){}</script>
 -->
-	<link rel="stylesheet" type="text/css" href="https://frankpang.github.io//assets/css/styles_feeling_responsive.css">
-	<script src="https://frankpang.github.io//assets/js/modernizr.min.js"></script>
+	<link rel="stylesheet" type="text/css" href="http://localhost:4000/assets/css/styles_feeling_responsive.css">
+	<script src="http://localhost:4000/assets/js/modernizr.min.js"></script>
 
 <!--	<script src="https://ajax.googleapis.com/ajax/libs/webfont/1.5.18/webfont.js"></script>
 	<script>
@@ -31,9 +31,9 @@
 -->
 
 <!-- loading pixeden fonts -->
-<link rel="stylesheet" href="https://frankpang.github.io//assets/fonts/pe-icon-7-stroke/css/pe-icon-7-stroke.css">
+<link rel="stylesheet" href="http://localhost:4000/assets/fonts/pe-icon-7-stroke/css/pe-icon-7-stroke.css">
 <!-- Optional - Adds useful class to manipulate icon font display -->
-<link rel="stylesheet" href="https://frankpang.github.io//assets/fonts/pe-icon-7-stroke/css/helper.css">
+<link rel="stylesheet" href="http://localhost:4000/assets/fonts/pe-icon-7-stroke/css/helper.css">
 
 <!-- loading brick.im fonts -->
 <link rel="stylesheet" href="//brick.a.ssl.fastly.net/Lato:300,400,600,700/Aileron:100,300,400/Muli:200,300,400,700">
@@ -50,7 +50,7 @@
 	<!-- Facebook Open Graph -->
 	<meta property="og:title" content="RSS Feed (Styled)">
 	<meta property="og:description" content="This is my personal blog for discussing web, leadership, ba, design, and photography">
-	<meta property="og:url" content="https://frankpang.github.io//assets/xslt/rss.xslt">
+	<meta property="og:url" content="http://localhost:4000/assets/xslt/rss.xslt">
 	<meta property="og:locale" content="en_EN">
 	<meta property="og:type" content="website">
 	<meta property="og:site_name" content="Frank Pang’s Site">
@@ -58,34 +58,34 @@
 	
 
 
-	<link type="text/plain" rel="author" href="https://frankpang.github.io//humans.txt">
+	<link type="text/plain" rel="author" href="http://localhost:4000/humans.txt">
 
 	
 
 	
 
-	<link rel="icon" sizes="32x32" href="https://frankpang.github.io//assets/img/favicon-32x32.png">
+	<link rel="icon" sizes="32x32" href="http://localhost:4000/assets/img/favicon-32x32.png">
 
-	<link rel="icon" sizes="192x192" href="https://frankpang.github.io//assets/img/touch-icon-192x192.png">
+	<link rel="icon" sizes="192x192" href="http://localhost:4000/assets/img/touch-icon-192x192.png">
 
-	<link rel="apple-touch-icon-precomposed" sizes="180x180" href="https://frankpang.github.io//assets/img/apple-touch-icon-180x180-precomposed.png">
+	<link rel="apple-touch-icon-precomposed" sizes="180x180" href="http://localhost:4000/assets/img/apple-touch-icon-180x180-precomposed.png">
 
-	<link rel="apple-touch-icon-precomposed" sizes="152x152" href="https://frankpang.github.io//assets/img/apple-touch-icon-152x152-precomposed.png">
+	<link rel="apple-touch-icon-precomposed" sizes="152x152" href="http://localhost:4000/assets/img/apple-touch-icon-152x152-precomposed.png">
 
-	<link rel="apple-touch-icon-precomposed" sizes="144x144" href="https://frankpang.github.io//assets/img/apple-touch-icon-144x144-precomposed.png">
+	<link rel="apple-touch-icon-precomposed" sizes="144x144" href="http://localhost:4000/assets/img/apple-touch-icon-144x144-precomposed.png">
 
-	<link rel="apple-touch-icon-precomposed" sizes="120x120" href="https://frankpang.github.io//assets/img/apple-touch-icon-120x120-precomposed.png">
+	<link rel="apple-touch-icon-precomposed" sizes="120x120" href="http://localhost:4000/assets/img/apple-touch-icon-120x120-precomposed.png">
 
-	<link rel="apple-touch-icon-precomposed" sizes="114x114" href="https://frankpang.github.io//assets/img/apple-touch-icon-114x114-precomposed.png">
+	<link rel="apple-touch-icon-precomposed" sizes="114x114" href="http://localhost:4000/assets/img/apple-touch-icon-114x114-precomposed.png">
 
 	
-	<link rel="apple-touch-icon-precomposed" sizes="76x76" href="https://frankpang.github.io//assets/img/apple-touch-icon-76x76-precomposed.png">
+	<link rel="apple-touch-icon-precomposed" sizes="76x76" href="http://localhost:4000/assets/img/apple-touch-icon-76x76-precomposed.png">
 
-	<link rel="apple-touch-icon-precomposed" sizes="72x72" href="https://frankpang.github.io//assets/img/apple-touch-icon-72x72-precomposed.png">
+	<link rel="apple-touch-icon-precomposed" sizes="72x72" href="http://localhost:4000/assets/img/apple-touch-icon-72x72-precomposed.png">
 
-	<link rel="apple-touch-icon-precomposed" href="https://frankpang.github.io//assets/img/apple-touch-icon-precomposed.png">	
+	<link rel="apple-touch-icon-precomposed" href="http://localhost:4000/assets/img/apple-touch-icon-precomposed.png">	
 
-	<meta name="msapplication-TileImage" content="https://frankpang.github.io//assets/img/msapplication_tileimage.png">
+	<meta name="msapplication-TileImage" content="http://localhost:4000/assets/img/msapplication_tileimage.png">
 
 	<meta name="msapplication-TileColor" content="#fabb00">
 
@@ -101,7 +101,7 @@
   <nav class="top-bar" role="navigation" data-topbar>
     <ul class="title-area">
       <li class="name">
-      <h1 class="show-for-small-only"><a href="https://frankpang.github.io/" class="icon-rocket"> Frank Pang’s Site</a></h1>
+      <h1 class="show-for-small-only"><a href="http://localhost:4000" class="pe-7s-home"> Frank Pang’s Site</a></h1>
     </li>
        <!-- Remove the class "menu-icon" to get rid of menu icon. Take out "Menu" to just have icon alone -->
       <li class="toggle-topbar menu-icon"><a href="#"><span>Navigation</span></a></li>
@@ -119,7 +119,7 @@
 
             
             
-              <li><a href="https://frankpang.github.io//">Home</a></li>
+              <li><a href="http://localhost:4000/">Home</a></li>
               <li class="divider"></li>
 
             
@@ -134,7 +134,7 @@
 
             
             
-              <li><a href="https://frankpang.github.io//blog/">Blog</a></li>
+              <li><a href="http://localhost:4000/blog/">Blog</a></li>
               <li class="divider"></li>
 
             
@@ -173,7 +173,7 @@
                   
                   
                     <li class="divider"></li>
-                    <li><a href="https://frankpang.github.io//info/">About</a></li>
+                    <li><a href="http://localhost:4000/info/">About</a></li>
 
                   
                   
@@ -269,7 +269,7 @@
 		
 
 
-<script src="https://frankpang.github.io//assets/js/javascript.min.js"></script>
+<script src="http://localhost:4000/assets/js/javascript.min.js"></script>
 
 
 <!-- disable masthead image fade  {fade: 700} -->
