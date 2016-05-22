@@ -5,9 +5,9 @@
 
 	
 	<url>
-	<loc>https://frankpang.github.io//404.html</loc>
+	<loc>https://frankpang.github.io/404.html</loc>
 	
-		<lastmod>2016-05-15T17:37:06-07:00</lastmod>
+		<lastmod>2016-05-21T23:35:47-07:00</lastmod>
 	
 	
 		<changefreq>monthly</changefreq>
@@ -20,26 +20,9 @@
 
 	
 	<url>
-	<loc>https://frankpang.github.io//blog/archive/</loc>
+	<loc>https://frankpang.github.io/blog/archive/</loc>
 	
-		<lastmod>2016-05-15T17:37:06-07:00</lastmod>
-	
-	
-		<changefreq>monthly</changefreq>
-	
-	
-		<priority>0.3</priority>
-	
-	</url>
-	
-
-	
-
-	
-	<url>
-	<loc>https://frankpang.github.io//atom.xml</loc>
-	
-		<lastmod>2016-05-15T17:37:06-07:00</lastmod>
+		<lastmod>2016-05-21T23:35:47-07:00</lastmod>
 	
 	
 		<changefreq>monthly</changefreq>
@@ -54,148 +37,9 @@
 
 	
 	<url>
-	<loc>https://frankpang.github.io//feed.xml</loc>
+	<loc>https://frankpang.github.io/atom.xml</loc>
 	
-		<lastmod>2016-05-15T17:37:06-07:00</lastmod>
-	
-	
-		<changefreq>monthly</changefreq>
-	
-	
-		<priority>0.3</priority>
-	
-	</url>
-	
-
-	
-	<url>
-	<loc>https://frankpang.github.io//humans.txt</loc>
-	
-		<lastmod>2016-05-15T17:37:06-07:00</lastmod>
-	
-	
-		<changefreq>monthly</changefreq>
-	
-	
-		<priority>0.3</priority>
-	
-	</url>
-	
-
-	
-	<url>
-	<loc>https://frankpang.github.io//blog/</loc>
-	
-		<lastmod>2016-05-15T17:37:06-07:00</lastmod>
-	
-	
-		<changefreq>monthly</changefreq>
-	
-	
-		<priority>0.3</priority>
-	
-	</url>
-	
-
-	
-	<url>
-	<loc>https://frankpang.github.io//</loc>
-	
-		<lastmod>2016-05-15T17:37:06-07:00</lastmod>
-	
-	
-		<changefreq>monthly</changefreq>
-	
-	
-		<priority>0.3</priority>
-	
-	</url>
-	
-
-	
-	<url>
-	<loc>https://frankpang.github.io//info/</loc>
-	
-		<lastmod>2016-05-15T17:37:06-07:00</lastmod>
-	
-	
-		<changefreq>monthly</changefreq>
-	
-	
-		<priority>0.3</priority>
-	
-	</url>
-	
-
-	
-	<url>
-	<loc>https://frankpang.github.io//photography/</loc>
-	
-		<lastmod>2016-05-15T17:37:06-07:00</lastmod>
-	
-	
-		<changefreq>monthly</changefreq>
-	
-	
-		<priority>0.3</priority>
-	
-	</url>
-	
-
-	
-	<url>
-	<loc>https://frankpang.github.io//redirect-page/</loc>
-	
-		<lastmod>2016-05-15T17:37:06-07:00</lastmod>
-	
-	
-		<changefreq>monthly</changefreq>
-	
-	
-		<priority>0.3</priority>
-	
-	</url>
-	
-
-	
-	<url>
-	<loc>https://frankpang.github.io//robots.txt</loc>
-	
-		<lastmod>2016-05-15T17:37:06-07:00</lastmod>
-	
-	
-		<changefreq>monthly</changefreq>
-	
-	
-		<priority>0.3</priority>
-	
-	</url>
-	
-
-	
-
-	
-
-	
-	<url>
-	<loc>https://frankpang.github.io//search/</loc>
-	
-		<lastmod>2016-05-15T17:37:06-07:00</lastmod>
-	
-	
-		<changefreq>monthly</changefreq>
-	
-	
-		<priority>0.3</priority>
-	
-	</url>
-	
-
-	
-	<url>
-	<loc>https://frankpang.github.io//sitemap.xml</loc>
-	
-		<lastmod>2016-05-15T17:37:06-07:00</lastmod>
+		<lastmod>2016-05-21T23:35:47-07:00</lastmod>
 	
 	
 		<changefreq>monthly</changefreq>
@@ -210,24 +54,9 @@
 
 	
 	<url>
-	<loc>https://frankpang.github.io//blog/WordPress/</loc>
+	<loc>https://frankpang.github.io/feed.xml</loc>
 	
-		<lastmod>2016-05-15T17:37:06-07:00</lastmod>
-	
-	
-		<changefreq>monthly</changefreq>
-	
-	
-		<priority>0.3</priority>
-	
-	</url>
-	
-
-	
-	<url>
-	<loc>https://frankpang.github.io//blog/HTML5/</loc>
-	
-		<lastmod>2016-05-15T17:37:06-07:00</lastmod>
+		<lastmod>2016-05-21T23:35:47-07:00</lastmod>
 	
 	
 		<changefreq>monthly</changefreq>
@@ -240,24 +69,9 @@
 
 	
 	<url>
-	<loc>https://frankpang.github.io//blog/CSS/</loc>
+	<loc>https://frankpang.github.io/humans.txt</loc>
 	
-		<lastmod>2016-05-15T17:37:06-07:00</lastmod>
-	
-	
-		<changefreq>monthly</changefreq>
-	
-	
-		<priority>0.3</priority>
-	
-	</url>
-	
-
-	
-	<url>
-	<loc>https://frankpang.github.io//blog/Bootstrap/</loc>
-	
-		<lastmod>2016-05-15T17:37:06-07:00</lastmod>
+		<lastmod>2016-05-21T23:35:47-07:00</lastmod>
 	
 	
 		<changefreq>monthly</changefreq>
@@ -270,24 +84,9 @@
 
 	
 	<url>
-	<loc>https://frankpang.github.io//blog/Foundation/</loc>
+	<loc>https://frankpang.github.io/blog/</loc>
 	
-		<lastmod>2016-05-15T17:37:06-07:00</lastmod>
-	
-	
-		<changefreq>monthly</changefreq>
-	
-	
-		<priority>0.3</priority>
-	
-	</url>
-	
-
-	
-	<url>
-	<loc>https://frankpang.github.io//blog/Jekyll/</loc>
-	
-		<lastmod>2016-05-15T17:37:06-07:00</lastmod>
+		<lastmod>2016-05-21T23:35:47-07:00</lastmod>
 	
 	
 		<changefreq>monthly</changefreq>
@@ -300,24 +99,9 @@
 
 	
 	<url>
-	<loc>https://frankpang.github.io//blog/colors/</loc>
+	<loc>https://frankpang.github.io/</loc>
 	
-		<lastmod>2016-05-15T17:37:06-07:00</lastmod>
-	
-	
-		<changefreq>monthly</changefreq>
-	
-	
-		<priority>0.3</priority>
-	
-	</url>
-	
-
-	
-	<url>
-	<loc>https://frankpang.github.io//blog/fonts/</loc>
-	
-		<lastmod>2016-05-15T17:37:06-07:00</lastmod>
+		<lastmod>2016-05-21T23:35:47-07:00</lastmod>
 	
 	
 		<changefreq>monthly</changefreq>
@@ -330,24 +114,9 @@
 
 	
 	<url>
-	<loc>https://frankpang.github.io//blog/editors/</loc>
+	<loc>https://frankpang.github.io/info/</loc>
 	
-		<lastmod>2016-05-15T17:37:06-07:00</lastmod>
-	
-	
-		<changefreq>monthly</changefreq>
-	
-	
-		<priority>0.3</priority>
-	
-	</url>
-	
-
-	
-	<url>
-	<loc>https://frankpang.github.io//blog/webdev/</loc>
-	
-		<lastmod>2016-05-15T17:37:06-07:00</lastmod>
+		<lastmod>2016-05-21T23:35:47-07:00</lastmod>
 	
 	
 		<changefreq>monthly</changefreq>
@@ -360,24 +129,9 @@
 
 	
 	<url>
-	<loc>https://frankpang.github.io//blog/design/</loc>
+	<loc>https://frankpang.github.io/photography/</loc>
 	
-		<lastmod>2016-05-15T17:37:06-07:00</lastmod>
-	
-	
-		<changefreq>monthly</changefreq>
-	
-	
-		<priority>0.3</priority>
-	
-	</url>
-	
-
-	
-	<url>
-	<loc>https://frankpang.github.io//blog/page2/</loc>
-	
-		<lastmod>2016-05-15T17:37:06-07:00</lastmod>
+		<lastmod>2016-05-21T23:35:47-07:00</lastmod>
 	
 	
 		<changefreq>monthly</changefreq>
@@ -390,9 +144,255 @@
 
 	
 	<url>
-	<loc>https://frankpang.github.io//blog/page3/</loc>
+	<loc>https://frankpang.github.io/redirect-page/</loc>
 	
-		<lastmod>2016-05-15T17:37:06-07:00</lastmod>
+		<lastmod>2016-05-21T23:35:47-07:00</lastmod>
+	
+	
+		<changefreq>monthly</changefreq>
+	
+	
+		<priority>0.3</priority>
+	
+	</url>
+	
+
+	
+	<url>
+	<loc>https://frankpang.github.io/robots.txt</loc>
+	
+		<lastmod>2016-05-21T23:35:47-07:00</lastmod>
+	
+	
+		<changefreq>monthly</changefreq>
+	
+	
+		<priority>0.3</priority>
+	
+	</url>
+	
+
+	
+
+	
+
+	
+	<url>
+	<loc>https://frankpang.github.io/search/</loc>
+	
+		<lastmod>2016-05-21T23:35:47-07:00</lastmod>
+	
+	
+		<changefreq>monthly</changefreq>
+	
+	
+		<priority>0.3</priority>
+	
+	</url>
+	
+
+	
+	<url>
+	<loc>https://frankpang.github.io/sitemap.xml</loc>
+	
+		<lastmod>2016-05-21T23:35:47-07:00</lastmod>
+	
+	
+		<changefreq>monthly</changefreq>
+	
+	
+		<priority>0.3</priority>
+	
+	</url>
+	
+
+	
+
+	
+	<url>
+	<loc>https://frankpang.github.io/blog/WordPress/</loc>
+	
+		<lastmod>2016-05-21T23:35:47-07:00</lastmod>
+	
+	
+		<changefreq>monthly</changefreq>
+	
+	
+		<priority>0.3</priority>
+	
+	</url>
+	
+
+	
+	<url>
+	<loc>https://frankpang.github.io/blog/HTML/</loc>
+	
+		<lastmod>2016-05-21T23:35:47-07:00</lastmod>
+	
+	
+		<changefreq>monthly</changefreq>
+	
+	
+		<priority>0.3</priority>
+	
+	</url>
+	
+
+	
+	<url>
+	<loc>https://frankpang.github.io/blog/CSS/</loc>
+	
+		<lastmod>2016-05-21T23:35:47-07:00</lastmod>
+	
+	
+		<changefreq>monthly</changefreq>
+	
+	
+		<priority>0.3</priority>
+	
+	</url>
+	
+
+	
+	<url>
+	<loc>https://frankpang.github.io/blog/Bootstrap/</loc>
+	
+		<lastmod>2016-05-21T23:35:47-07:00</lastmod>
+	
+	
+		<changefreq>monthly</changefreq>
+	
+	
+		<priority>0.3</priority>
+	
+	</url>
+	
+
+	
+	<url>
+	<loc>https://frankpang.github.io/blog/Foundation/</loc>
+	
+		<lastmod>2016-05-21T23:35:47-07:00</lastmod>
+	
+	
+		<changefreq>monthly</changefreq>
+	
+	
+		<priority>0.3</priority>
+	
+	</url>
+	
+
+	
+	<url>
+	<loc>https://frankpang.github.io/blog/Jekyll/</loc>
+	
+		<lastmod>2016-05-21T23:35:47-07:00</lastmod>
+	
+	
+		<changefreq>monthly</changefreq>
+	
+	
+		<priority>0.3</priority>
+	
+	</url>
+	
+
+	
+	<url>
+	<loc>https://frankpang.github.io/blog/colors/</loc>
+	
+		<lastmod>2016-05-21T23:35:47-07:00</lastmod>
+	
+	
+		<changefreq>monthly</changefreq>
+	
+	
+		<priority>0.3</priority>
+	
+	</url>
+	
+
+	
+	<url>
+	<loc>https://frankpang.github.io/blog/fonts/</loc>
+	
+		<lastmod>2016-05-21T23:35:47-07:00</lastmod>
+	
+	
+		<changefreq>monthly</changefreq>
+	
+	
+		<priority>0.3</priority>
+	
+	</url>
+	
+
+	
+	<url>
+	<loc>https://frankpang.github.io/blog/editors/</loc>
+	
+		<lastmod>2016-05-21T23:35:47-07:00</lastmod>
+	
+	
+		<changefreq>monthly</changefreq>
+	
+	
+		<priority>0.3</priority>
+	
+	</url>
+	
+
+	
+	<url>
+	<loc>https://frankpang.github.io/blog/webdev/</loc>
+	
+		<lastmod>2016-05-21T23:35:47-07:00</lastmod>
+	
+	
+		<changefreq>monthly</changefreq>
+	
+	
+		<priority>0.3</priority>
+	
+	</url>
+	
+
+	
+	<url>
+	<loc>https://frankpang.github.io/blog/design/</loc>
+	
+		<lastmod>2016-05-21T23:35:47-07:00</lastmod>
+	
+	
+		<changefreq>monthly</changefreq>
+	
+	
+		<priority>0.3</priority>
+	
+	</url>
+	
+
+	
+	<url>
+	<loc>https://frankpang.github.io/blog/page2/</loc>
+	
+		<lastmod>2016-05-21T23:35:47-07:00</lastmod>
+	
+	
+		<changefreq>monthly</changefreq>
+	
+	
+		<priority>0.3</priority>
+	
+	</url>
+	
+
+	
+	<url>
+	<loc>https://frankpang.github.io/blog/page3/</loc>
+	
+		<lastmod>2016-05-21T23:35:47-07:00</lastmod>
 	
 	
 		<changefreq>monthly</changefreq>
@@ -408,7 +408,7 @@
 
 	
 	<url>
-	<loc>https://frankpang.github.io//design/brick-fonts/</loc>
+	<loc>https://frankpang.github.io/design/brick-fonts/</loc>
 	
 		<lastmod>2016-05-07T11:52:00-07:00</lastmod>
 	
@@ -423,7 +423,7 @@
 
 	
 	<url>
-	<loc>https://frankpang.github.io//design/free-font-guide/</loc>
+	<loc>https://frankpang.github.io/design/free-font-guide/</loc>
 	
 		<lastmod>2016-05-04T22:26:00-07:00</lastmod>
 	
@@ -438,7 +438,7 @@
 
 	
 	<url>
-	<loc>https://frankpang.github.io//webdev/nearing-launch/</loc>
+	<loc>https://frankpang.github.io/webdev/nearing-launch/</loc>
 	
 		<lastmod>2016-04-30T22:59:00-07:00</lastmod>
 	
@@ -453,7 +453,7 @@
 
 	
 	<url>
-	<loc>https://frankpang.github.io//webdev/reading-up-on-css/</loc>
+	<loc>https://frankpang.github.io/webdev/reading-up-on-css/</loc>
 	
 		<lastmod>2016-04-18T22:56:00-07:00</lastmod>
 	
@@ -468,7 +468,7 @@
 
 	
 	<url>
-	<loc>https://frankpang.github.io//design/web-page-editors/</loc>
+	<loc>https://frankpang.github.io/design/web-page-editors/</loc>
 	
 		<lastmod>2016-04-07T22:59:00-07:00</lastmod>
 	
@@ -483,7 +483,7 @@
 
 	
 	<url>
-	<loc>https://frankpang.github.io//webdev/jekyll-smartify/</loc>
+	<loc>https://frankpang.github.io/webdev/jekyll-smartify/</loc>
 	
 		<lastmod>2016-04-01T22:56:00-07:00</lastmod>
 	
@@ -498,7 +498,7 @@
 
 	
 	<url>
-	<loc>https://frankpang.github.io//webdev/jekyll-tagging/</loc>
+	<loc>https://frankpang.github.io/webdev/jekyll-tagging/</loc>
 	
 		<lastmod>2016-03-26T22:52:00-07:00</lastmod>
 	
@@ -513,7 +513,7 @@
 
 	
 	<url>
-	<loc>https://frankpang.github.io//design/font-pairings/</loc>
+	<loc>https://frankpang.github.io/design/font-pairings/</loc>
 	
 		<lastmod>2016-03-22T22:20:00-07:00</lastmod>
 	
@@ -528,7 +528,7 @@
 
 	
 	<url>
-	<loc>https://frankpang.github.io//design/typecast-font-playground/</loc>
+	<loc>https://frankpang.github.io/design/typecast-font-playground/</loc>
 	
 		<lastmod>2016-03-18T16:04:00-07:00</lastmod>
 	
@@ -543,7 +543,7 @@
 
 	
 	<url>
-	<loc>https://frankpang.github.io//design/fonts-fonts-fonts/</loc>
+	<loc>https://frankpang.github.io/design/fonts-fonts-fonts/</loc>
 	
 		<lastmod>2016-03-15T00:00:00-07:00</lastmod>
 	
@@ -558,7 +558,7 @@
 
 	
 	<url>
-	<loc>https://frankpang.github.io//design/colors/</loc>
+	<loc>https://frankpang.github.io/design/colors/</loc>
 	
 		<lastmod>2016-03-11T22:10:00-08:00</lastmod>
 	
@@ -573,7 +573,7 @@
 
 	
 	<url>
-	<loc>https://frankpang.github.io//webdev/jekyll-page-generator/</loc>
+	<loc>https://frankpang.github.io/webdev/jekyll-page-generator/</loc>
 	
 		<lastmod>2016-03-08T00:00:00-08:00</lastmod>
 	
@@ -588,7 +588,7 @@
 
 	
 	<url>
-	<loc>https://frankpang.github.io//webdev/ui-kits-and-themes/</loc>
+	<loc>https://frankpang.github.io/webdev/ui-kits-and-themes/</loc>
 	
 		<lastmod>2016-02-25T21:15:00-08:00</lastmod>
 	
@@ -603,7 +603,7 @@
 
 	
 	<url>
-	<loc>https://frankpang.github.io//webdev/wordpress/</loc>
+	<loc>https://frankpang.github.io/webdev/wordpress/</loc>
 	
 		<lastmod>2016-02-17T21:11:00-08:00</lastmod>
 	
@@ -618,7 +618,7 @@
 
 	
 	<url>
-	<loc>https://frankpang.github.io//webdev/a-new-beginning/</loc>
+	<loc>https://frankpang.github.io/webdev/a-new-beginning/</loc>
 	
 		<lastmod>2016-01-14T00:14:00-08:00</lastmod>
 	

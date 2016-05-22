@@ -1,136 +1,148 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<?xml-stylesheet type="text/xsl" href="https://frankpang.github.io//assets/xslt/rss.xslt" ?>
-<?xml-stylesheet type="text/css" href="https://frankpang.github.io//assets/css/rss.css" ?>
+<?xml-stylesheet type="text/xsl" href="https://frankpang.github.io/assets/xslt/rss.xslt" ?>
+<?xml-stylesheet type="text/css" href="https://frankpang.github.io/assets/css/rss.css" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
 	<channel>
 		<title>Frank’s Site</title>
 		<description>This is my personal blog for discussing web, leadership, ba, design, and photography</description>
-		<link>https://frankpang.github.io//</link>
-		<atom:link href="https://frankpang.github.io//feed.xml" rel="self" type="application/rss+xml" />
+		<link>https://frankpang.github.io/</link>
+		<atom:link href="https://frankpang.github.io/feed.xml" rel="self" type="application/rss+xml" />
 		
 			<item>
 				<title>Brick Font Service</title>
-				<link>https://frankpang.github.io//design/brick-fonts/</link>
+				<link>https://frankpang.github.io/design/brick-fonts/</link>
 				<pubDate>Sat, 07 May 2016 11:52:00 -0700</pubDate>
-				<description>&lt;p&gt;Premise: better looking fonts, uncompressed
-Served by fast CDN
-More variety, some choices such as Aileron are not available at Google Fonts.&lt;/p&gt;
+				<description>&lt;p&gt;In addition to the Google Fonts web service, there’s another web font service that serves up free fonts: &lt;a href=&quot;http://brick.im/fonts/&quot; title=&quot;Brick Fonts&quot;&gt;Brick Fonts&lt;/a&gt;.&lt;/p&gt;
+
+&lt;p&gt;Most of the fonts available on Brick are also available on Google Fonts, but Brick also provides other fonts that Google doesn’t have. For example, Aileron is a nice sans-serif font inspired by Helvetica. Aileron features 16 styles, so it’s quite a versatile font as well.&lt;/p&gt;
+
+&lt;p&gt;They also have more styles of certain Google fonts, such as Muli and Montserrat. Whereas Google only offers a few weights or styles for those fonts, Brick offers 9 styles for Montserrat and 10 styles for Muli. So, Brick makes those fonts a lot more versatile. They’re quite nice looking fonts as well, so I’m happy with what Brick has done for them.&lt;/p&gt;
+
+&lt;p&gt;In addition, Brick boasts better smoothing, fuller ligature set, and better kerning in the fonts they serve up.&lt;/p&gt;
+
+&lt;p&gt;The fonts seem to load pretty quickly, and that’s probably helped by the CDN service they use to serve up the fonts.&lt;/p&gt;
+
+&lt;p&gt;Best of all, it’s free to use. Kudos to Brick fonts!&lt;/p&gt;
+
 </description>
-				<guid isPermaLink="true">https://frankpang.github.io//design/brick-fonts/</guid>
+				<guid isPermaLink="true">https://frankpang.github.io/design/brick-fonts/</guid>
 			</item>
 		
 			<item>
 				<title>Free Guide for Combining Typefaces</title>
-				<link>https://frankpang.github.io//design/free-font-guide/</link>
+				<link>https://frankpang.github.io/design/free-font-guide/</link>
 				<pubDate>Wed, 04 May 2016 22:26:00 -0700</pubDate>
 				<description>&lt;p&gt;Tim Brown’s combining typefaces guide is now a free &lt;a href=&quot;http://blog.typekit.com/2016/04/29/combining-typefaces-free-guide-to-great-typography/&quot; title=&quot;Tim Brown&#39;s Font eBook&quot;&gt;eBook&lt;/a&gt;!
 Originally published in 2013, it’s a beautifully laid out, handy guide on fonts, their roles in your page design, and how to combine the fonts. I’ve only skimmed through the 63 page guide so far, but it looks to be quite useful.&lt;/p&gt;
 
 </description>
-				<guid isPermaLink="true">https://frankpang.github.io//design/free-font-guide/</guid>
+				<guid isPermaLink="true">https://frankpang.github.io/design/free-font-guide/</guid>
 			</item>
 		
 			<item>
 				<title>Getting ready for launch of website</title>
-				<link>https://frankpang.github.io//webdev/nearing-launch/</link>
+				<link>https://frankpang.github.io/webdev/nearing-launch/</link>
 				<pubDate>Sat, 30 Apr 2016 22:59:00 -0700</pubDate>
 				<description>&lt;p&gt;I haven’t been reading up on CSS as much as I wanted to, as I’ve been busy with life and polishing up my site.&lt;/p&gt;
 
-&lt;p&gt;Despite the writing of my articles for my blog in the last four months, I still haven’t published my blog to the internet yet. So far, I’ve been running the pages on my Jeklyll server, testing the layout and editing articles. It’s not that I’m a perfectionist, it’s just that I want the site to look polished, even if it’s not the final design. I don’t want any glaring mistakes, and there are a few interface elements that I want to clean up so that it doesn’t look like something is missing from the site. I’m excited to get my blog finally published!&lt;/p&gt;
+&lt;p&gt;Despite the writing of my articles for my blog in the last four months, I still haven’t published my blog to the internet yet. So far, I’ve been running the pages on my Jekyll server, testing the layout and editing articles. It’s not that I’m a perfectionist, it’s just that I want the site to look polished, even if it’s not the final design. I don’t want any glaring mistakes or UI inconsistencies. There are a few interface elements that I want to clean up so that it doesn’t look like something is missing from the site. I’m feeling more excited as my blog gets closer to being published!&lt;/p&gt;
 </description>
-				<guid isPermaLink="true">https://frankpang.github.io//webdev/nearing-launch/</guid>
+				<guid isPermaLink="true">https://frankpang.github.io/webdev/nearing-launch/</guid>
 			</item>
 		
 			<item>
 				<title>Reading up on CSS</title>
-				<link>https://frankpang.github.io//webdev/reading-up-on-css/</link>
+				<link>https://frankpang.github.io/webdev/reading-up-on-css/</link>
 				<pubDate>Mon, 18 Apr 2016 22:56:00 -0700</pubDate>
-				<description>&lt;p&gt;I’ve learned some CSS through customizing the phlow template, but I think it’s time to go back to the CSS: The Missing Manual book to get an overview of CSS. The idea is to understand the fundamentals of CSS and to understand the capabilities of CSS.&lt;/p&gt;
+				<description>&lt;p&gt;I’ve learned some CSS through customizing the phlow template, but I think it’s time to go back to the CSS: The Missing Manual book to get an overview of CSS. I’d like to understand the fundamentals of CSS and its capabilities. Even if I use a web page design app for my sites, at some point, some fine tuning or debugging may be needed, and that’s where a good grasp of the fundamentals will help.&lt;/p&gt;
 </description>
-				<guid isPermaLink="true">https://frankpang.github.io//webdev/reading-up-on-css/</guid>
+				<guid isPermaLink="true">https://frankpang.github.io/webdev/reading-up-on-css/</guid>
 			</item>
 		
 			<item>
 				<title>Web Page Design Apps</title>
-				<link>https://frankpang.github.io//design/web-page-editors/</link>
+				<link>https://frankpang.github.io/design/web-page-editors/</link>
 				<pubDate>Thu, 07 Apr 2016 22:59:00 -0700</pubDate>
-				<description>&lt;p&gt;As the site gets closer to a functioning blog, I started looking at ways to speed up page design and prototyping. I wanted a tool that would allow drag and drop of UI components and a visual editor, but at the same time produce some usable HTML code as well.&lt;/p&gt;
+				<description>&lt;p&gt;As the site gets closer to a functioning blog, I started looking at ways to speed up page design and prototyping. I wanted a tool that features dragging and dropping of UI components to a web page, and generate HTML and CSS for the page. At the same time, I would like the app to produce some clean and readable code as well.&lt;/p&gt;
 
-&lt;p&gt;There are a lot of choices in this category. One of the more popular tools is &lt;a href=&quot;https://webflow.com/&quot; title=&quot;Webflow&quot;&gt;Webflow&lt;/a&gt;. It’s an entirely web based tool which features a slick interface with some cool templates to get you started designing. Webflow can also show how the pages will appear on different screen sizes, which can provide a basic way of testing for differnt devices. It’s not a comprehensive way of testing multiple devices, but it gives an idea of how the pages will look.&lt;/p&gt;
+&lt;p&gt;There are a lot of choices in this category. One of the more popular tools is &lt;a href=&quot;https://webflow.com/&quot; title=&quot;Webflow&quot;&gt;Webflow&lt;/a&gt;. It’s an entirely web based tool which features a slick interface with some cool templates to get started with designing. Webflow can also show how the pages will appear on different screen sizes, which can provide a basic way of testing for different devices. It’s not a comprehensive way of testing multiple devices, but it gives an idea of how the pages will look.&lt;/p&gt;
 
-&lt;p&gt;Signing up to Webflow is easy, and you can start with a free account to try out the design features. You’re limited to one project and no CSS export or advanced features. Still, the free account is enough to get the gist of the editor, which is quite slick.&lt;/p&gt;
+&lt;p&gt;Signing up to Webflow is easy, and you can start with a free account to try out the design features. You’re limited to one project and no CSS export or advanced features. Still, the free account is enough to get the gist of the editor, which is quite clean and easy to use.&lt;/p&gt;
 
-&lt;p&gt;Next, I looked at &lt;a href=&quot;http://pinegrow.com/&quot; title=&quot;Pinegrow&quot;&gt;Pinegrow&lt;/a&gt;. It’s a lesser known web editor, but it looks to have some great features. It can open a web page from your local drive, make changes, and save them. It also has support for frameworks such as Bootstrap and Foundation, allowing you to drag and drop components into the page. That would be one of the best features for me; I like to start with some ready made components to prototype faster. A built-in editor makes it easy to directly edit the code as well. There’s many more features, and it looks like an app that would allow me to quickly prototype pages.&lt;/p&gt;
+&lt;p&gt;Next, I looked at &lt;a href=&quot;http://pinegrow.com/&quot; title=&quot;Pinegrow&quot;&gt;Pinegrow&lt;/a&gt;. It’s a lesser known web editor, but it seems to have some great features. It can open a web page from your local drive, make changes, and save them. It also has support for frameworks such as Bootstrap and Foundation, allowing you to drag and drop components into the page. That would be one of the best features for me; I like to start with some ready made components to prototype faster. A built-in editor makes it easy to directly edit the code as well. There’s many more features, and it looks like an app that would allow me to quickly prototype pages.&lt;/p&gt;
 
 &lt;p&gt;Pinegrow also offers a 30 day free trial, so that would be a good way to try out the features and see if it fits my needs.&lt;/p&gt;
 
 &lt;p&gt;In the meantime, I want to get back to the fundamentals and understand the power of CSS and SASS before I dive too deep into the visual web editors.&lt;/p&gt;
 
 </description>
-				<guid isPermaLink="true">https://frankpang.github.io//design/web-page-editors/</guid>
+				<guid isPermaLink="true">https://frankpang.github.io/design/web-page-editors/</guid>
 			</item>
 		
 			<item>
 				<title>Jekyll Smartify</title>
-				<link>https://frankpang.github.io//webdev/jekyll-smartify/</link>
+				<link>https://frankpang.github.io/webdev/jekyll-smartify/</link>
 				<pubDate>Fri, 01 Apr 2016 22:56:00 -0700</pubDate>
 				<description>&lt;p&gt;I was looking for ways to convert the quotes in my blog writeups to smart quotes and smart dashes. Sure, there’s keyboard shortcuts for proper quotation marks, but that’s not as fast as typing a single key. There is a useful Atom plugin that converts straight quotes to smart quotes as well. However, somewhere along the way, I might forget to do the conversion, and that’s where Jekyll’s enhancement to the Liquid templating engine comes in. The “smartify” filter converts straight quotes to smart quotes during page generation, so you can use straight quotes in the markdown page but they’ll get converted to proper quotation characters when Jekyll generates the pages.
-It works well with body text but it doesn’t smartify front matter text. For example if you have straight quotes defined in the page title variable, the smartify filter won’t convert that. It’s a small manual step to do, and not too much work.&lt;/p&gt;
+It works well with body text but it doesn’t smartify front matter text. For example if you have straight quotes defined in the page title variable, the smartify filter won’t convert that.&lt;/p&gt;
 </description>
-				<guid isPermaLink="true">https://frankpang.github.io//webdev/jekyll-smartify/</guid>
+				<guid isPermaLink="true">https://frankpang.github.io/webdev/jekyll-smartify/</guid>
 			</item>
 		
 			<item>
 				<title>Jekyll Tagging and Archives</title>
-				<link>https://frankpang.github.io//webdev/jekyll-tagging/</link>
+				<link>https://frankpang.github.io/webdev/jekyll-tagging/</link>
 				<pubDate>Sat, 26 Mar 2016 22:52:00 -0700</pubDate>
-				<description>&lt;p&gt;I’ve been struggling with Jekyll these past few days. I’m trying to get tag and category page generation working for my site. At first, I used the jekyll-tagging plugin, which only generates tag pages. I thought that was OK since I only had two categories and I could manually add category pages. The only snag was that the plugin didn’t read all of the front matter variables during page generation. For example, I wanted to set a variable to turn off the masthead in the page layout using a variable set in the layout page’s front matter. For some reason, the plugin isn’t set up to read the variables. I played around with the jekyll-archives plugin as well but it also doesn’t read the front matter variable. It took a lot of debugging before I could get the Jekyll plugins to generate what I wanted. In that time, I learned some basic Ruby and had to read up in depth the flow of execution when Jekyll generates pages. While the debugging was somewhat frustrating, it was definitely an interesting learning experience on how flexible Jekyll is for allowing plugins for customized behavior.&lt;/p&gt;
+				<description>&lt;p&gt;I’ve been struggling with Jekyll these past few days. I’m trying to get tag and category page generation working for my site. At first, I used the jekyll-tagging plugin. It works OK in automatically generate category pages. The only snag was that the plugin didn’t read all of the front matter variables during page generation. For example, I wanted to set a variable to turn off the masthead in the page layout using a variable set in the layout page’s front matter. For some reason, the plugin isn’t set up to read the variables.&lt;/p&gt;
+
+&lt;p&gt;I thought that was OK to manually generate category pages since I only had two categories and I could manually add category pages. I later decided it’s best to automate the category page generation.&lt;/p&gt;
+
+&lt;p&gt;I played around with the jekyll-archives plugin, which does the category pages but it also doesn’t read the front matter variable. It took a lot of debugging before I could get the Jekyll plugins to generate what I wanted. In that time, I learned some basic Ruby and had to read up in depth the flow of execution when Jekyll generates pages. While the debugging was somewhat frustrating, it was definitely an interesting learning experience on how flexible Jekyll is for allowing plugins for customized behavior.&lt;/p&gt;
 </description>
-				<guid isPermaLink="true">https://frankpang.github.io//webdev/jekyll-tagging/</guid>
+				<guid isPermaLink="true">https://frankpang.github.io/webdev/jekyll-tagging/</guid>
 			</item>
 		
 			<item>
 				<title>Canva’s Guide to Font Pairings</title>
-				<link>https://frankpang.github.io//design/font-pairings/</link>
+				<link>https://frankpang.github.io/design/font-pairings/</link>
 				<pubDate>Tue, 22 Mar 2016 22:20:00 -0700</pubDate>
 				<description>&lt;p&gt;I’ve been browsing the web for font inspirations and font combinations. Smashing magazine’s &lt;a href=&quot;https://www.smashingmagazine.com/2010/12/what-font-should-i-use-five-principles-for-choosing-and-using-typefaces/&quot; title=&quot;Smashing&#39;s Font Pairing Guide&quot;&gt;guide&lt;/a&gt; is a good start, and there’s also &lt;a href=&quot;http://fontpair.co/&quot; title=&quot;Font Pair&quot;&gt;Font Pair&lt;/a&gt; as well.&lt;/p&gt;
 
-&lt;p&gt;I also found Canva’s &lt;a href=&quot;https://designschool.canva.com/blog/the-ultimate-guide-to-font-pairing/&quot; title=&quot;Canva&#39;s Font Pairing Guide&quot;&gt;guide&lt;/a&gt; to font pairings, which is a great guide for font pairings. It shows different font combinations with sample pages showing how the combinations apply to different types of sites (tech, gallery, fashion).
-It’s an inspirational and visual guide, with a variety of examples. The guide gives an overview of the fonts used and then gives some beautifully made sample designs to show how the fonts work. It’s a great start for design inspiration, and I like how they often give samples using the same font family. They really show how you can have a visual variety in the typography without using a different font family.&lt;/p&gt;
+&lt;p&gt;I also found Canva’s &lt;a href=&quot;https://designschool.canva.com/blog/the-ultimate-guide-to-font-pairing/&quot; title=&quot;Canva&#39;s Font Pairing Guide&quot;&gt;guide&lt;/a&gt; to font pairings. It shows different font combinations with sample pages showing how the combinations apply to different themes for websites (tech, gallery, fashion).&lt;/p&gt;
 
-&lt;p&gt;Having a sans serif font for a header font was one of the things I was thinking of for my site. I wanted a clean look for the site, but still wanted a bit of personality. In the end, I chose Roboto Condensed for the header font, and Roboto for the body font. I also liked the look of Merriweather, and how elegant it is. Unfortunately, that kind of personality in the font won’t fit the technical articles I’m writing. Still, it would be nice to use this or another serif font some day. I’d like to have some variety in the things I create.&lt;/p&gt;
+&lt;p&gt;It’s an inspirational and visual guide, with a variety of examples. The guide gives an overview of the fonts used and then gives some beautifully made sample designs to show how the fonts work. It’s a great start for design inspiration, and I like how they often give samples using the same font family. They really show how you can have a visual variety in the typography using only one font family, instead of several.&lt;/p&gt;
 
 </description>
-				<guid isPermaLink="true">https://frankpang.github.io//design/font-pairings/</guid>
+				<guid isPermaLink="true">https://frankpang.github.io/design/font-pairings/</guid>
 			</item>
 		
 			<item>
 				<title>Typecast Font Playground</title>
-				<link>https://frankpang.github.io//design/typecast-font-playground/</link>
+				<link>https://frankpang.github.io/design/typecast-font-playground/</link>
 				<pubDate>Fri, 18 Mar 2016 16:04:00 -0700</pubDate>
 				<description>&lt;p&gt;After browsing the font sites, the fonts started looking the same. It was after some browsing that I wanted to find a way to better visualize how the fonts would look using actual text from my site, and through that search I found &lt;a href=&quot;http://typecast.com/&quot; title=&quot;typecast&quot;&gt;typecast&lt;/a&gt;.&lt;/p&gt;
 
-&lt;p&gt;If codepen is a playground for experimenting with HTML, CSS, and JavaScript, then typecast is a playground for font combinations. With typecast, you can lay out a sample page with your text and play with font selections for various styles. It’s much faster than coding font selections on your website in HTML and reloading your page to see how the fonts look. Using typecast is a great way to preview fonts before adding them into your project, so it speeds up the design process. The great thing is that you can use Google Fonts in the typecast prototypes, which is great since I’m aiming to use free web fonts.&lt;/p&gt;
+&lt;p&gt;If codepen is a playground for experimenting with HTML, CSS, and JavaScript, then typecast is a playground for font combinations. With typecast, you can lay out a sample page with your text and play with font selections for various styles. It’s much faster than coding font selections on your website in HTML and reloading your page to see how the fonts look. Using typecast is a great way to preview fonts before adding them into your project, so it speeds up the design process. The great thing is that you can use Google Fonts in your typecast prototypes, which is great since I’m aiming to use free web fonts.&lt;/p&gt;
 
-&lt;p&gt;While typecast is fun and convenient to use, I found a few minor issues that detracted from the user experience. First of all, your login session times out quickly on typecast. If you leave your browser for more than roughly 15-30 minutes, you web session times out and you have to log back in. It’s really just a minor flaw, given that it’s a free and very useful tool.&lt;/p&gt;
+&lt;p&gt;While typecast is fun and convenient to use, I found a few minor issues that detracted from the user experience. First of all, your login session times out quickly on typecast. If you leave your browser for more than roughly 15-30 minutes, you web session times out and you have to log back in. When you do log back in, you’re not brought back to the typecast home page our your dashboard. It’s really just a minor flaw, given that it’s a free and very useful tool.&lt;/p&gt;
 </description>
-				<guid isPermaLink="true">https://frankpang.github.io//design/typecast-font-playground/</guid>
+				<guid isPermaLink="true">https://frankpang.github.io/design/typecast-font-playground/</guid>
 			</item>
 		
 			<item>
 				<title>Fonts, Fonts, and More Fonts</title>
-				<link>https://frankpang.github.io//design/fonts-fonts-fonts/</link>
+				<link>https://frankpang.github.io/design/fonts-fonts-fonts/</link>
 				<pubDate>Tue, 15 Mar 2016 00:00:00 -0700</pubDate>
-				<description>&lt;p&gt;Before I had set out to design my website, I only had a passing interest for fonts. I wasn’t a font geek and I never studied the subject. My only exposure to the world of fonts was watching the documentary film “Helvetica” several years ago. I thought it was interesting, but it didn’t interest me enough to read more about fonts.&lt;/p&gt;
+				<description>&lt;p&gt;Before I set out to design my website, I only had a passing interest for fonts. I wasn’t a font geek and I never studied the subject. My only exposure to the world of fonts was watching the documentary film “Helvetica” several years ago. I thought it was interesting, but it didn’t interest me enough to read more about fonts.&lt;/p&gt;
 
 &lt;p&gt;I got a lot more interested after I started looking into fonts for my site. There was something about fonts that made me obsessed. There’s something about admiring the design of the fonts and their form that had me hooked onto the subject. There’s a lot of good blogs on fonts, including TypeWolf and ilovetypeography.com. I also found a useful &lt;a href=&quot;https://prowebtype.com/&quot; title=&quot;Pro Web Type&quot;&gt;eBook&lt;/a&gt;, where I learned about the basic aspects of font design. The eBook cover topics such as font families, x-height, and apertures. The eBook also has a nice list of reference materials for further testing. It’s a great contribution by the author Donny Truong.&lt;/p&gt;
 
-&lt;p&gt;My goal is to choose the font that would help express the technical and design topics I’d write about. I wanted to also have a clean and easy to read font that goes with the design of the site.&lt;/p&gt;
+&lt;p&gt;My goal is to choose the font that would help express the technical and design topics I’d write about. I wanted to also have a clean and easy to read font that goes with the design of the site. It’s an interesting and exciting challenge for me.&lt;/p&gt;
 
-&lt;p&gt;I browsed many web font repositories and sites, including &lt;a href=&quot;https://www.google.com/fonts#&quot; title=&quot;Google Fonts&quot;&gt;Google Fonts&lt;/a&gt;, &lt;a href=&quot;http://brick.im/&quot; title=&quot;Brick Font Service&quot;&gt;Brick&lt;/a&gt; and &lt;a href=&quot;https://www.fontsquirrel.com/&quot; title=&quot;Font Squirrel&quot;&gt;Font Squirrel&lt;/a&gt;. There’s a lot of free fonts out there, and some may say you get what you pay for, but the free fonts are adequate for my needs. There’s a lot of variety in the fonts offered, so it was overwhelming at first to make sense of the font choices. Still, it’s fun browsing fonts!&lt;/p&gt;
+&lt;p&gt;I browsed many web font services and repositories, including &lt;a href=&quot;https://www.google.com/fonts#&quot; title=&quot;Google Fonts&quot;&gt;Google Fonts&lt;/a&gt;, &lt;a href=&quot;http://brick.im/&quot; title=&quot;Brick Font Service&quot;&gt;Brick&lt;/a&gt; and &lt;a href=&quot;https://www.fontsquirrel.com/&quot; title=&quot;Font Squirrel&quot;&gt;Font Squirrel&lt;/a&gt;. There’s a lot of free fonts out there, and some may say you get what you pay for, but the free fonts are adequate for my needs. There’s a lot of variety in the fonts offered, so it was overwhelming at first to make sense of the font choices. Still, it’s fun browsing fonts!&lt;/p&gt;
 
 </description>
-				<guid isPermaLink="true">https://frankpang.github.io//design/fonts-fonts-fonts/</guid>
+				<guid isPermaLink="true">https://frankpang.github.io/design/fonts-fonts-fonts/</guid>
 			</item>
 		
 	</channel>
