@@ -1,2 +1,2 @@
 User-agent: *
-Sitemap: https://frankpang.github.io/sitemap.xml
+Sitemap: https://frankpang.co/sitemap.xml
