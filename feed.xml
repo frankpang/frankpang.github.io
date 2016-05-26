@@ -1,16 +1,16 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<?xml-stylesheet type="text/xsl" href="https://frankpang.co/assets/xslt/rss.xslt" ?>
-<?xml-stylesheet type="text/css" href="https://frankpang.co/assets/css/rss.css" ?>
+<?xml-stylesheet type="text/xsl" href="/assets/xslt/rss.xslt" ?>
+<?xml-stylesheet type="text/css" href="/assets/css/rss.css" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
 	<channel>
 		<title>Frank’s Site</title>
 		<description>This is my personal blog for discussing web, leadership, ba, design, and photography</description>
-		<link>https://frankpang.co/</link>
-		<atom:link href="https://frankpang.co/feed.xml" rel="self" type="application/rss+xml" />
+		<link>/</link>
+		<atom:link href="/feed.xml" rel="self" type="application/rss+xml" />
 		
 			<item>
 				<title>Brick Font Service</title>
-				<link>https://frankpang.co/design/brick-fonts/</link>
+				<link>/design/brick-fonts/</link>
 				<pubDate>Sat, 07 May 2016 11:52:00 -0700</pubDate>
 				<description>&lt;p&gt;In addition to the Google Fonts web service, there’s another web font service that serves up free fonts: &lt;a href=&quot;http://brick.im/fonts/&quot; title=&quot;Brick Fonts&quot;&gt;Brick Fonts&lt;/a&gt;.&lt;/p&gt;
 
@@ -25,43 +25,43 @@
 &lt;p&gt;Best of all, it’s free to use. Kudos to Brick fonts!&lt;/p&gt;
 
 </description>
-				<guid isPermaLink="true">https://frankpang.co/design/brick-fonts/</guid>
+				<guid isPermaLink="true">/design/brick-fonts/</guid>
 			</item>
 		
 			<item>
 				<title>Free Guide for Combining Typefaces</title>
-				<link>https://frankpang.co/design/free-font-guide/</link>
+				<link>/design/free-font-guide/</link>
 				<pubDate>Wed, 04 May 2016 22:26:00 -0700</pubDate>
 				<description>&lt;p&gt;Tim Brown’s combining typefaces guide is now a free &lt;a href=&quot;http://blog.typekit.com/2016/04/29/combining-typefaces-free-guide-to-great-typography/&quot; title=&quot;Tim Brown&#39;s Font eBook&quot;&gt;eBook&lt;/a&gt;!
 Originally published in 2013, it’s a beautifully laid out, handy guide on fonts, their roles in your page design, and how to combine the fonts. I’ve only skimmed through the 63 page guide so far, but it looks to be quite useful.&lt;/p&gt;
 
 </description>
-				<guid isPermaLink="true">https://frankpang.co/design/free-font-guide/</guid>
+				<guid isPermaLink="true">/design/free-font-guide/</guid>
 			</item>
 		
 			<item>
 				<title>Getting ready for launch of website</title>
-				<link>https://frankpang.co/webdev/nearing-launch/</link>
+				<link>/webdev/nearing-launch/</link>
 				<pubDate>Sat, 30 Apr 2016 22:59:00 -0700</pubDate>
 				<description>&lt;p&gt;I haven’t been reading up on CSS as much as I wanted to, as I’ve been busy with life and polishing up my site.&lt;/p&gt;
 
 &lt;p&gt;Despite the writing of my articles for my blog in the last four months, I still haven’t published my blog to the internet yet. So far, I’ve been running the pages on my Jekyll server, testing the layout and editing articles. It’s not that I’m a perfectionist, it’s just that I want the site to look polished, even if it’s not the final design. I don’t want any glaring mistakes or UI inconsistencies. There are a few interface elements that I want to clean up so that it doesn’t look like something is missing from the site. I’m feeling more excited as my blog gets closer to being published!&lt;/p&gt;
 </description>
-				<guid isPermaLink="true">https://frankpang.co/webdev/nearing-launch/</guid>
+				<guid isPermaLink="true">/webdev/nearing-launch/</guid>
 			</item>
 		
 			<item>
 				<title>Reading up on CSS</title>
-				<link>https://frankpang.co/webdev/reading-up-on-css/</link>
+				<link>/webdev/reading-up-on-css/</link>
 				<pubDate>Mon, 18 Apr 2016 22:56:00 -0700</pubDate>
 				<description>&lt;p&gt;I’ve learned some CSS through customizing the phlow template, but I think it’s time to go back to the CSS: The Missing Manual book to get an overview of CSS. I’d like to understand the fundamentals of CSS and its capabilities. Even if I use a web page design app for my sites, at some point, some fine tuning or debugging may be needed, and that’s where a good grasp of the fundamentals will help.&lt;/p&gt;
 </description>
-				<guid isPermaLink="true">https://frankpang.co/webdev/reading-up-on-css/</guid>
+				<guid isPermaLink="true">/webdev/reading-up-on-css/</guid>
 			</item>
 		
 			<item>
 				<title>Web Page Design Apps</title>
-				<link>https://frankpang.co/design/web-page-editors/</link>
+				<link>/design/web-page-editors/</link>
 				<pubDate>Thu, 07 Apr 2016 22:59:00 -0700</pubDate>
 				<description>&lt;p&gt;As the site gets closer to a functioning blog, I started looking at ways to speed up page design and prototyping. I wanted a tool that features dragging and dropping of UI components to a web page, and generate HTML and CSS for the page. At the same time, I would like the app to produce some clean and readable code as well.&lt;/p&gt;
 
@@ -76,22 +76,22 @@ Originally published in 2013, it’s a beautifully laid out, handy guide on font
 &lt;p&gt;In the meantime, I want to get back to the fundamentals and understand the power of CSS and SASS before I dive too deep into the visual web editors.&lt;/p&gt;
 
 </description>
-				<guid isPermaLink="true">https://frankpang.co/design/web-page-editors/</guid>
+				<guid isPermaLink="true">/design/web-page-editors/</guid>
 			</item>
 		
 			<item>
 				<title>Jekyll Smartify</title>
-				<link>https://frankpang.co/webdev/jekyll-smartify/</link>
+				<link>/webdev/jekyll-smartify/</link>
 				<pubDate>Fri, 01 Apr 2016 22:56:00 -0700</pubDate>
 				<description>&lt;p&gt;I was looking for ways to convert the quotes in my blog writeups to smart quotes and smart dashes. Sure, there’s keyboard shortcuts for proper quotation marks, but that’s not as fast as typing a single key. There is a useful Atom plugin that converts straight quotes to smart quotes as well. However, somewhere along the way, I might forget to do the conversion, and that’s where Jekyll’s enhancement to the Liquid templating engine comes in. The “smartify” filter converts straight quotes to smart quotes during page generation, so you can use straight quotes in the markdown page but they’ll get converted to proper quotation characters when Jekyll generates the pages.
 It works well with body text but it doesn’t smartify front matter text. For example if you have straight quotes defined in the page title variable, the smartify filter won’t convert that.&lt;/p&gt;
 </description>
-				<guid isPermaLink="true">https://frankpang.co/webdev/jekyll-smartify/</guid>
+				<guid isPermaLink="true">/webdev/jekyll-smartify/</guid>
 			</item>
 		
 			<item>
 				<title>Jekyll Tagging and Archives</title>
-				<link>https://frankpang.co/webdev/jekyll-tagging/</link>
+				<link>/webdev/jekyll-tagging/</link>
 				<pubDate>Sat, 26 Mar 2016 22:52:00 -0700</pubDate>
 				<description>&lt;p&gt;I’ve been struggling with Jekyll these past few days. I’m trying to get tag and category page generation working for my site. At first, I used the jekyll-tagging plugin. It works OK in automatically generate category pages. The only snag was that the plugin didn’t read all of the front matter variables during page generation. For example, I wanted to set a variable to turn off the masthead in the page layout using a variable set in the layout page’s front matter. For some reason, the plugin isn’t set up to read the variables.&lt;/p&gt;
 
@@ -99,12 +99,12 @@ It works well with body text but it doesn’t smartify front matter text. For ex
 
 &lt;p&gt;I played around with the jekyll-archives plugin, which does the category pages but it also doesn’t read the front matter variable. It took a lot of debugging before I could get the Jekyll plugins to generate what I wanted. In that time, I learned some basic Ruby and had to read up in depth the flow of execution when Jekyll generates pages. While the debugging was somewhat frustrating, it was definitely an interesting learning experience on how flexible Jekyll is for allowing plugins for customized behavior.&lt;/p&gt;
 </description>
-				<guid isPermaLink="true">https://frankpang.co/webdev/jekyll-tagging/</guid>
+				<guid isPermaLink="true">/webdev/jekyll-tagging/</guid>
 			</item>
 		
 			<item>
 				<title>Canva’s Guide to Font Pairings</title>
-				<link>https://frankpang.co/design/font-pairings/</link>
+				<link>/design/font-pairings/</link>
 				<pubDate>Tue, 22 Mar 2016 22:20:00 -0700</pubDate>
 				<description>&lt;p&gt;I’ve been browsing the web for font inspirations and font combinations. Smashing magazine’s &lt;a href=&quot;https://www.smashingmagazine.com/2010/12/what-font-should-i-use-five-principles-for-choosing-and-using-typefaces/&quot; title=&quot;Smashing&#39;s Font Pairing Guide&quot;&gt;guide&lt;/a&gt; is a good start, and there’s also &lt;a href=&quot;http://fontpair.co/&quot; title=&quot;Font Pair&quot;&gt;Font Pair&lt;/a&gt; as well.&lt;/p&gt;
 
@@ -113,12 +113,12 @@ It works well with body text but it doesn’t smartify front matter text. For ex
 &lt;p&gt;It’s an inspirational and visual guide, with a variety of examples. The guide gives an overview of the fonts used and then gives some beautifully made sample designs to show how the fonts work. It’s a great start for design inspiration, and I like how they often give samples using the same font family. They really show how you can have a visual variety in the typography using only one font family, instead of several.&lt;/p&gt;
 
 </description>
-				<guid isPermaLink="true">https://frankpang.co/design/font-pairings/</guid>
+				<guid isPermaLink="true">/design/font-pairings/</guid>
 			</item>
 		
 			<item>
 				<title>Typecast Font Playground</title>
-				<link>https://frankpang.co/design/typecast-font-playground/</link>
+				<link>/design/typecast-font-playground/</link>
 				<pubDate>Fri, 18 Mar 2016 16:04:00 -0700</pubDate>
 				<description>&lt;p&gt;After browsing the font sites, the fonts started looking the same. It was after some browsing that I wanted to find a way to better visualize how the fonts would look using actual text from my site, and through that search I found &lt;a href=&quot;http://typecast.com/&quot; title=&quot;typecast&quot;&gt;typecast&lt;/a&gt;.&lt;/p&gt;
 
@@ -126,12 +126,12 @@ It works well with body text but it doesn’t smartify front matter text. For ex
 
 &lt;p&gt;While typecast is fun and convenient to use, I found a few minor issues that detracted from the user experience. First of all, your login session times out quickly on typecast. If you leave your browser for more than roughly 15-30 minutes, you web session times out and you have to log back in. When you do log back in, you’re not brought back to the typecast home page our your dashboard. It’s really just a minor flaw, given that it’s a free and very useful tool.&lt;/p&gt;
 </description>
-				<guid isPermaLink="true">https://frankpang.co/design/typecast-font-playground/</guid>
+				<guid isPermaLink="true">/design/typecast-font-playground/</guid>
 			</item>
 		
 			<item>
 				<title>Fonts, Fonts, and More Fonts</title>
-				<link>https://frankpang.co/design/fonts-fonts-fonts/</link>
+				<link>/design/fonts-fonts-fonts/</link>
 				<pubDate>Tue, 15 Mar 2016 00:00:00 -0700</pubDate>
 				<description>&lt;p&gt;Before I set out to design my website, I only had a passing interest for fonts. I wasn’t a font geek and I never studied the subject. My only exposure to the world of fonts was watching the documentary film “Helvetica” several years ago. I thought it was interesting, but it didn’t interest me enough to read more about fonts.&lt;/p&gt;
 
@@ -142,7 +142,7 @@ It works well with body text but it doesn’t smartify front matter text. For ex
 &lt;p&gt;I browsed many web font services and repositories, including &lt;a href=&quot;https://www.google.com/fonts#&quot; title=&quot;Google Fonts&quot;&gt;Google Fonts&lt;/a&gt;, &lt;a href=&quot;http://brick.im/&quot; title=&quot;Brick Font Service&quot;&gt;Brick&lt;/a&gt; and &lt;a href=&quot;https://www.fontsquirrel.com/&quot; title=&quot;Font Squirrel&quot;&gt;Font Squirrel&lt;/a&gt;. There’s a lot of free fonts out there, and some may say you get what you pay for, but the free fonts are adequate for my needs. There’s a lot of variety in the fonts offered, so it was overwhelming at first to make sense of the font choices. Still, it’s fun browsing fonts!&lt;/p&gt;
 
 </description>
-				<guid isPermaLink="true">https://frankpang.co/design/fonts-fonts-fonts/</guid>
+				<guid isPermaLink="true">/design/fonts-fonts-fonts/</guid>
 			</item>
 		
 	</channel>
