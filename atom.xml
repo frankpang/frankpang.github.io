@@ -4,7 +4,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
 	<id>/</id>
 	<title>Frank’s Site</title>
-	<updated>2016-05-25T22:31:12-07:00</updated>
+	<updated>2016-05-26T21:03:59-07:00</updated>
 
 	<subtitle>This is my personal blog for discussing web, leadership, ba, design, and photography</subtitle>
 
@@ -154,7 +154,7 @@ Originally published in 2013, it’s a beautifully laid out, handy guide on font
 					
 				</author>
 			
-			<summary>After researching cool tools, frameworks, and apps, I want to get back to learning the fundamentals of web development and learn more about CSS</summary>
+			<summary>After researching cool tools, frameworks, and apps, I want to get back to learning the fundamentals of web development and learn more about CSS.</summary>
 			<content type="html" xml:base="/webdev/reading-up-on-css/">&lt;p&gt;I’ve learned some CSS through customizing the phlow template, but I think it’s time to go back to the CSS: The Missing Manual book to get an overview of CSS. I’d like to understand the fundamentals of CSS and its capabilities. Even if I use a web page design app for my sites, at some point, some fine tuning or debugging may be needed, and that’s where a good grasp of the fundamentals will help.&lt;/p&gt;
 </content>
 

@@ -156,6 +156,15 @@ Aileron:100,300,400/ Libre+Baskerville:400,700 -->
 
           
           
+
+            
+            
+              <li><a href="/info/">About</a></li>
+              <li class="divider"></li>
+
+            
+            
+          
         
         
       </ul>
@@ -179,14 +188,6 @@ Aileron:100,300,400/ Libre+Baskerville:400,700 -->
                     
 
                 
-                
-                  
-                  
-                    <li class="divider"></li>
-                    <li><a href="/info/">About</a></li>
-
-                  
-                  
                 
               
               
