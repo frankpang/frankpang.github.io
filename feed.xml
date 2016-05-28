@@ -9,6 +9,21 @@
 		<atom:link href="/feed.xml" rel="self" type="application/rss+xml" />
 		
 			<item>
+				<title>Adobe Typekit and Site Progress</title>
+				<link>/design/adobe-typekit-and-site-progress/</link>
+				<pubDate>Thu, 12 May 2016 15:05:00 -0700</pubDate>
+				<description>&lt;p&gt;It’s a great way to try out their font service and expands the font choices for a website beyond the free Open Source fonts. There are some quality and interesting fonts available, such as Museo Sans and Europa.&lt;/p&gt;
+
+&lt;p&gt;Browsing the fonts in Typekit is intuitive. You’re given a list of fonts and have a control panel to filter the font selections. With that, you can choose the fonts available to you by type - serif, sans-serif, script, and so on. Once you click on the icons representing the font sample, you get a sample page of the styles and weights for the font. With this, you’d get a good feel for how the font looks.&lt;/p&gt;
+
+&lt;p&gt;That’s enough playing with fonts for now. I’d like to focus on tweaking the landing page, adding some more wording and content to my widgets, and cleaning up some UI oddities or inconsistencies.&lt;/p&gt;
+
+&lt;p&gt;I maintain a short, informal to-do list for my website as it’s an easy way to track tasks. On that list, there are features that would be nice to have for the future, but those are at the bottom of the list. Things like UI glitches are higher priority due to the goal of having a polished (but not perfect) site.&lt;/p&gt;
+</description>
+				<guid isPermaLink="true">/design/adobe-typekit-and-site-progress/</guid>
+			</item>
+		
+			<item>
 				<title>Brick Font Service</title>
 				<link>/design/brick-fonts/</link>
 				<pubDate>Sat, 07 May 2016 11:52:00 -0700</pubDate>
@@ -127,22 +142,6 @@ It works well with body text but it doesn’t smartify front matter text. For ex
 &lt;p&gt;While typecast is fun and convenient to use, I found a few minor issues that detracted from the user experience. First of all, your login session times out quickly on typecast. If you leave your browser for more than roughly 15-30 minutes, you web session times out and you have to log back in. When you do log back in, you’re not brought back to the typecast home page our your dashboard. It’s really just a minor flaw, given that it’s a free and very useful tool.&lt;/p&gt;
 </description>
 				<guid isPermaLink="true">/design/typecast-font-playground/</guid>
-			</item>
-		
-			<item>
-				<title>Fonts, Fonts, and More Fonts</title>
-				<link>/design/fonts-fonts-fonts/</link>
-				<pubDate>Tue, 15 Mar 2016 00:00:00 -0700</pubDate>
-				<description>&lt;p&gt;Before I set out to design my website, I only had a passing interest for fonts. I wasn’t a font geek and I never studied the subject. My only exposure to the world of fonts was watching the documentary film “Helvetica” several years ago. I thought it was interesting, but it didn’t interest me enough to read more about fonts.&lt;/p&gt;
-
-&lt;p&gt;I got a lot more interested after I started looking into fonts for my site. There was something about fonts that made me obsessed. There’s something about admiring the design of the fonts and their form that had me hooked onto the subject. There’s a lot of good blogs on fonts, including TypeWolf and ilovetypeography.com. I also found a useful &lt;a href=&quot;https://prowebtype.com/&quot; title=&quot;Pro Web Type&quot;&gt;eBook&lt;/a&gt;, where I learned about the basic aspects of font design. The eBook cover topics such as font families, x-height, and apertures. The eBook also has a nice list of reference materials for further testing. It’s a great contribution by the author Donny Truong.&lt;/p&gt;
-
-&lt;p&gt;My goal is to choose the font that would help express the technical and design topics I’d write about. I wanted to also have a clean and easy to read font that goes with the design of the site. It’s an interesting and exciting challenge for me.&lt;/p&gt;
-
-&lt;p&gt;I browsed many web font services and repositories, including &lt;a href=&quot;https://www.google.com/fonts#&quot; title=&quot;Google Fonts&quot;&gt;Google Fonts&lt;/a&gt;, &lt;a href=&quot;http://brick.im/&quot; title=&quot;Brick Font Service&quot;&gt;Brick&lt;/a&gt; and &lt;a href=&quot;https://www.fontsquirrel.com/&quot; title=&quot;Font Squirrel&quot;&gt;Font Squirrel&lt;/a&gt;. There’s a lot of free fonts out there, and some may say you get what you pay for, but the free fonts are adequate for my needs. There’s a lot of variety in the fonts offered, so it was overwhelming at first to make sense of the font choices. Still, it’s fun browsing fonts!&lt;/p&gt;
-
-</description>
-				<guid isPermaLink="true">/design/fonts-fonts-fonts/</guid>
 			</item>
 		
 	</channel>

@@ -1,13 +1,13 @@
 <?xml version="1.0" encoding="UTF-8"?>
 
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
-<!-- Pages: 29 links with priority=0.3, changefreq=monthly -->
+<!-- Pages: 30 links with priority=0.3, changefreq=monthly -->
 
 	
 	<url>
 	<loc>/404.html</loc>
 	
-		<lastmod>2016-05-27T22:28:17-07:00</lastmod>
+		<lastmod>2016-05-28T15:14:14-07:00</lastmod>
 	
 	
 		<changefreq>monthly</changefreq>
@@ -22,7 +22,7 @@
 	<url>
 	<loc>/blog/archive/</loc>
 	
-		<lastmod>2016-05-27T22:28:17-07:00</lastmod>
+		<lastmod>2016-05-28T15:14:14-07:00</lastmod>
 	
 	
 		<changefreq>monthly</changefreq>
@@ -39,7 +39,7 @@
 	<url>
 	<loc>/atom.xml</loc>
 	
-		<lastmod>2016-05-27T22:28:17-07:00</lastmod>
+		<lastmod>2016-05-28T15:14:14-07:00</lastmod>
 	
 	
 		<changefreq>monthly</changefreq>
@@ -56,7 +56,7 @@
 	<url>
 	<loc>/feed.xml</loc>
 	
-		<lastmod>2016-05-27T22:28:17-07:00</lastmod>
+		<lastmod>2016-05-28T15:14:14-07:00</lastmod>
 	
 	
 		<changefreq>monthly</changefreq>
@@ -71,7 +71,7 @@
 	<url>
 	<loc>/humans.txt</loc>
 	
-		<lastmod>2016-05-27T22:28:17-07:00</lastmod>
+		<lastmod>2016-05-28T15:14:14-07:00</lastmod>
 	
 	
 		<changefreq>monthly</changefreq>
@@ -86,7 +86,7 @@
 	<url>
 	<loc>/blog/</loc>
 	
-		<lastmod>2016-05-27T22:28:17-07:00</lastmod>
+		<lastmod>2016-05-28T15:14:14-07:00</lastmod>
 	
 	
 		<changefreq>monthly</changefreq>
@@ -101,7 +101,7 @@
 	<url>
 	<loc>/</loc>
 	
-		<lastmod>2016-05-27T22:28:17-07:00</lastmod>
+		<lastmod>2016-05-28T15:14:14-07:00</lastmod>
 	
 	
 		<changefreq>monthly</changefreq>
@@ -116,7 +116,7 @@
 	<url>
 	<loc>/info/</loc>
 	
-		<lastmod>2016-05-27T22:28:17-07:00</lastmod>
+		<lastmod>2016-05-28T15:14:14-07:00</lastmod>
 	
 	
 		<changefreq>monthly</changefreq>
@@ -131,7 +131,7 @@
 	<url>
 	<loc>/redirect-page/</loc>
 	
-		<lastmod>2016-05-27T22:28:17-07:00</lastmod>
+		<lastmod>2016-05-28T15:14:14-07:00</lastmod>
 	
 	
 		<changefreq>monthly</changefreq>
@@ -146,7 +146,7 @@
 	<url>
 	<loc>/robots.txt</loc>
 	
-		<lastmod>2016-05-27T22:28:17-07:00</lastmod>
+		<lastmod>2016-05-28T15:14:14-07:00</lastmod>
 	
 	
 		<changefreq>monthly</changefreq>
@@ -165,7 +165,7 @@
 	<url>
 	<loc>/sitemap.xml</loc>
 	
-		<lastmod>2016-05-27T22:28:17-07:00</lastmod>
+		<lastmod>2016-05-28T15:14:14-07:00</lastmod>
 	
 	
 		<changefreq>monthly</changefreq>
@@ -182,7 +182,7 @@
 	<url>
 	<loc>/blog/WordPress/</loc>
 	
-		<lastmod>2016-05-27T22:28:17-07:00</lastmod>
+		<lastmod>2016-05-28T15:14:14-07:00</lastmod>
 	
 	
 		<changefreq>monthly</changefreq>
@@ -197,7 +197,7 @@
 	<url>
 	<loc>/blog/HTML/</loc>
 	
-		<lastmod>2016-05-27T22:28:17-07:00</lastmod>
+		<lastmod>2016-05-28T15:14:14-07:00</lastmod>
 	
 	
 		<changefreq>monthly</changefreq>
@@ -212,7 +212,7 @@
 	<url>
 	<loc>/blog/CSS/</loc>
 	
-		<lastmod>2016-05-27T22:28:17-07:00</lastmod>
+		<lastmod>2016-05-28T15:14:14-07:00</lastmod>
 	
 	
 		<changefreq>monthly</changefreq>
@@ -227,7 +227,7 @@
 	<url>
 	<loc>/blog/Bootstrap/</loc>
 	
-		<lastmod>2016-05-27T22:28:17-07:00</lastmod>
+		<lastmod>2016-05-28T15:14:14-07:00</lastmod>
 	
 	
 		<changefreq>monthly</changefreq>
@@ -242,7 +242,7 @@
 	<url>
 	<loc>/blog/Foundation/</loc>
 	
-		<lastmod>2016-05-27T22:28:17-07:00</lastmod>
+		<lastmod>2016-05-28T15:14:14-07:00</lastmod>
 	
 	
 		<changefreq>monthly</changefreq>
@@ -257,7 +257,7 @@
 	<url>
 	<loc>/blog/Jekyll/</loc>
 	
-		<lastmod>2016-05-27T22:28:17-07:00</lastmod>
+		<lastmod>2016-05-28T15:14:14-07:00</lastmod>
 	
 	
 		<changefreq>monthly</changefreq>
@@ -272,7 +272,7 @@
 	<url>
 	<loc>/blog/colors/</loc>
 	
-		<lastmod>2016-05-27T22:28:17-07:00</lastmod>
+		<lastmod>2016-05-28T15:14:14-07:00</lastmod>
 	
 	
 		<changefreq>monthly</changefreq>
@@ -287,7 +287,7 @@
 	<url>
 	<loc>/blog/fonts/</loc>
 	
-		<lastmod>2016-05-27T22:28:17-07:00</lastmod>
+		<lastmod>2016-05-28T15:14:14-07:00</lastmod>
 	
 	
 		<changefreq>monthly</changefreq>
@@ -302,7 +302,7 @@
 	<url>
 	<loc>/blog/tools/</loc>
 	
-		<lastmod>2016-05-27T22:28:17-07:00</lastmod>
+		<lastmod>2016-05-28T15:14:14-07:00</lastmod>
 	
 	
 		<changefreq>monthly</changefreq>
@@ -317,7 +317,7 @@
 	<url>
 	<loc>/blog/webdev/</loc>
 	
-		<lastmod>2016-05-27T22:28:17-07:00</lastmod>
+		<lastmod>2016-05-28T15:14:14-07:00</lastmod>
 	
 	
 		<changefreq>monthly</changefreq>
@@ -332,7 +332,7 @@
 	<url>
 	<loc>/blog/design/</loc>
 	
-		<lastmod>2016-05-27T22:28:17-07:00</lastmod>
+		<lastmod>2016-05-28T15:14:14-07:00</lastmod>
 	
 	
 		<changefreq>monthly</changefreq>
@@ -347,7 +347,7 @@
 	<url>
 	<loc>/blog/page2/</loc>
 	
-		<lastmod>2016-05-27T22:28:17-07:00</lastmod>
+		<lastmod>2016-05-28T15:14:14-07:00</lastmod>
 	
 	
 		<changefreq>monthly</changefreq>
@@ -362,7 +362,22 @@
 	<url>
 	<loc>/blog/page3/</loc>
 	
-		<lastmod>2016-05-27T22:28:17-07:00</lastmod>
+		<lastmod>2016-05-28T15:14:14-07:00</lastmod>
+	
+	
+		<changefreq>monthly</changefreq>
+	
+	
+		<priority>0.3</priority>
+	
+	</url>
+	
+
+	
+	<url>
+	<loc>/blog/page4/</loc>
+	
+		<lastmod>2016-05-28T15:14:14-07:00</lastmod>
 	
 	
 		<changefreq>monthly</changefreq>
@@ -374,7 +389,22 @@
 	
 
 
-<!-- Posts: 15 links with priority=0.5, changefreq=monthly -->
+<!-- Posts: 16 links with priority=0.5, changefreq=monthly -->
+
+	
+	<url>
+	<loc>/design/adobe-typekit-and-site-progress/</loc>
+	
+		<lastmod>2016-05-12T15:05:00-07:00</lastmod>
+	
+	
+		<changefreq>monthly</changefreq>
+	
+	
+		<priority>0.5</priority>
+	
+	</url>
+	
 
 	
 	<url>

@@ -28,7 +28,7 @@
 -->
 <!-- loading brick.im fonts
 Aileron:100,300,400/ Libre+Baskerville:400,700 -->
-<link rel="stylesheet" href="//brick.a.ssl.fastly.net/Vollkorn:400,400i/Muli:200,300,300i,400,400i,700">
+<link rel="stylesheet" href="//brick.a.ssl.fastly.net/Charter:400,400i/Muli:200,300,300i,400,400i,700">
 
 	<link rel="stylesheet" type="text/css" href="/assets/css/styles_feeling_responsive.css">
 	<script src="/assets/js/modernizr.min.js"></script>
@@ -101,7 +101,7 @@ Aileron:100,300,400/ Libre+Baskerville:400,700 -->
   <nav class="top-bar" role="navigation" data-topbar>
   <ul class="title-area">
     <li class="name">
-    <h1 class="show-for-small-only"><a href=""> <i class="pe-7s-home pe-lg"></i><span> Frank’s Site <span></a></h1>
+    <h1 class="show-for-small-only"><a href="/"> <i class="pe-7s-home pe-lg"></i><span> Frank’s Site <span></a></h1>
   </li>
     <li class="toggle-topbar menu-icon"><a href="#"><span>Menu</span></a></li>
   </ul>
@@ -308,7 +308,6 @@ Aileron:100,300,400/ Libre+Baskerville:400,700 -->
 <script src="/assets/js/javascript.min.js"></script>
 
 
-<!-- disable masthead image fade  {fade: 700} -->
 
 
 
