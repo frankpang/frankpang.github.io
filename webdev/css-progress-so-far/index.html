@@ -3,7 +3,7 @@
 <head>
 	<meta charset="utf-8">
 	<meta name="viewport" content="width=device-width, initial-scale=1.0">
-	<title>Frank’s Site</title>
+	<title>CSS Reading So Far</title>
 	<!-- loading adobe fonts
 	<script src="https://use.typekit.net/zwx5mkv.js"></script>
 	<script>try{Typekit.load({ async: true });}catch(e){}</script>
@@ -34,7 +34,7 @@ Aileron:100,300,400/ Libre+Baskerville:400,700 -->
 <link rel="stylesheet" href="/assets/fonts/pe-icon-7-stroke/css/helper.css">
 
 	<!-- Search Engine Optimization -->
-	<meta name="description" content="This is my personal blog for discussing web, leadership, ba, design, and photography">
+	<meta name="description" content="CSS: The Missing Manual is great book from O’Reilly Media. O’Reilly books have offered topnotch insight into various technical topics, and this one is no different.">
   	<meta name="google-site-verification" content="Vk0IOJ2jwG_qEoG7fuEXYqv0m2rLa8P778Fi_GrsgEQ">
 	<meta name="msvalidate.01" content="0FB4C028ABCF07C908C54386ABD2D97F" >
 	<link rel="author" href="https://plus.google.com/u/0/118311555303973066167">
@@ -43,9 +43,9 @@ Aileron:100,300,400/ Libre+Baskerville:400,700 -->
 
 
 	<!-- Facebook Open Graph -->
-	<meta property="og:title" content="Frank’s Site">
-	<meta property="og:description" content="This is my personal blog for discussing web, leadership, ba, design, and photography">
-	<meta property="og:url" content="/blog/WordPress/">
+	<meta property="og:title" content="CSS Reading So Far">
+	<meta property="og:description" content="CSS: The Missing Manual is great book from O’Reilly Media. O’Reilly books have offered topnotch insight into various technical topics, and this one is no different.">
+	<meta property="og:url" content="/webdev/css-progress-so-far/">
 	<meta property="og:locale" content="en_EN">
 	<meta property="og:type" content="website">
 	<meta property="og:site_name" content="Frank’s Site">
@@ -206,56 +206,86 @@ Aileron:100,300,400/ Libre+Baskerville:400,700 -->
 				
 
 				<div itemprop="name">
-					
-					<h1></h1>
+					<p class="subheadline">CSS</p>
+					<h1>CSS Reading So Far</h1>
 				</div>
 			</header>
 
 
 			
+			<p class="teaser" itemprop="description">
+				CSS: The Missing Manual is great book from O’Reilly Media. O’Reilly books have offered topnotch insight into various technical topics, and this one is no different.
+			</p>
+			
 
 			<div itemprop="articleSection">
 			
-			<!-- variables hardcoded in tagging.rb -->
+			<p>David McFarland explains and illustrates very well the power of CSS. He starts off well in his introductory section, and paces the book very well.
+The examples that he provides are practical, and his writing is clear. The exercises add to the interactivity and aids learning. He covers some of the things I learned just by playing with my website, such as creating stylesheets and selectors. Still, I’m glad to be reading his book, since David provides a deep insight into the power of CSS. This is apparent as he explains CSS inheritance, the point system for specificity, and how styles cascade.</p>
 
-
-
-
-
-
-<ul class="side-nav">
-
-  
-
-    
-      <li><a href="/webdev/wordpress/">Content Management Systems &middot; <strong>WordPress and CMS Systems</strong></a></li>
-    
-
-  
-</ul>
-
-
-<!--
-<div class="row t30">
-	<div class="medium-8 columns">
-		<article itemscope itemtype="http://schema.org/Article">
-			<header>
-			<div itemprop="articleSection">
-        <ul class="posts">
-          
-            <li>
-              <span class="post-date">Feb 17, 2016</span>
-              <a class="post-link" href="/webdev/wordpress/">WordPress and CMS Systems</a>
-            </li>
-          
-        </ul>
+			
 			</div>
-		</article>
-	</div>
-</div>
--->
 
 			
+						<div id="page-meta" class="t30">
+				<p>
+					<!-- Look the author details up from the site config. -->
+					
+					<!-- blog 2.0: no author info needed. Output author details if some exist.
+					
+					<span itemprop="author" itemscope itemtype="http://schema.org/Person"><span itemprop="name" class="pr20 icon-edit">Frank</span>
+				</span>
+				
+			-->
+
+				
+				<time class="icon-calendar pr20" datetime="2016-05-23" itemprop="datePublished"> May-23-2016</time>
+				
+
+			</div><!--  /.page-meta -->
+
+<!--				blog 2.0: turn category and tag icons into clickable links -->
+				
+					<span class="icon-archive pr20">
+						
+							  <!-- not sure we need to check page_category != null? -->
+								
+	            	
+  							<a href="/blog/webdev/">webdev</a>
+	        		
+	    			
+					</span>
+				
+
+				
+					<span class="icon-price-tag pr10">
+						
+							
+								<a href="/blog/CSS/">CSS, </a>
+							
+						
+							
+								<a href="/blog/reading/">reading</a>
+							
+						
+					</span>
+				
+
+				<br/>
+<!-- put categories and tags in one line				<br />
+				<span class="pr20">
+				</span>
+			</p> -->
+
+		<!-- change from theme - nav buttons should not be grey, don't include in the page-meta div -->
+			<div id="post-nav" class="row t30">
+				
+				<div class="small-4 columns"><a class="button small radius prev" href="/design/reading-list-for-designers/">&laquo; Prev</a></div><!-- /.small-4.columns -->
+				
+				<div class="small-4 columns text-center"><a class="radius button small" href="/blog/" title="Blog Blog">Blog</a></div><!-- /.small-4.columns -->
+				
+				<div class="small-4 columns text-right"></div><!-- /.small-4.columns -->
+				
 			</div>
 
 			
@@ -314,10 +344,8 @@ Aileron:100,300,400/ Libre+Baskerville:400,700 -->
 
 </ul>
 
-<h2>WordPress</h2>
+<h2></h2>
 <ul>
-
-  <li><a href="/webdev/wordpress/">WordPress and CMS Systems</a> (17 Feb 2016 | Tags: <a href="/blog/WordPress/" rel="tag">WordPress</a>, <a href="/blog/HTML/" rel="tag">HTML</a>, <a href="/blog/CSS/" rel="tag">CSS</a>)</li>
 
 </ul>
 

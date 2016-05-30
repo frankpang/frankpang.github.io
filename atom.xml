@@ -4,7 +4,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
 	<id>/</id>
 	<title>Frank’s Site</title>
-	<updated>2016-05-28T15:52:14-07:00</updated>
+	<updated>2016-05-29T22:25:58-07:00</updated>
 
 	<subtitle>This is my personal blog for discussing web, leadership, ba, design, and photography</subtitle>
 
@@ -26,6 +26,77 @@
 
 	<generator uri="http://jekyllrb.com" version="3.1.2">Jekyll</generator>
 
+	
+		<entry>
+			<id>/webdev/css-progress-so-far/</id>
+			<title>CSS Reading So Far</title>
+			<link href="/webdev/css-progress-so-far/" rel="alternate" type="text/html" title="CSS Reading So Far" />
+			<updated>2016-05-23T20:37:00-07:00</updated>
+
+			
+				
+				<author>
+					
+						<name>Frank</name>
+					
+					
+					
+						<uri>http://franctastik.github.io/</uri>
+					
+				</author>
+			
+			<summary>CSS: The Missing Manual is great book from O’Reilly Media. O’Reilly books have offered topnotch insight into various technical topics, and this one is no different.</summary>
+			<content type="html" xml:base="/webdev/css-progress-so-far/">&lt;p&gt;David McFarland explains and illustrates very well the power of CSS. He starts off well in his introductory section, and paces the book very well.
+The examples that he provides are practical, and his writing is clear. The exercises add to the interactivity and aids learning. He covers some of the things I learned just by playing with my website, such as creating stylesheets and selectors. Still, I’m glad to be reading his book, since David provides a deep insight into the power of CSS. This is apparent as he explains CSS inheritance, the point system for specificity, and how styles cascade.&lt;/p&gt;
+</content>
+
+			
+				<category term="webdev" />
+			
+			
+				<category term="CSS" />
+			
+				<category term="reading" />
+			
+
+			<published>2016-05-23T20:37:00-07:00</published>
+		</entry>
+	
+		<entry>
+			<id>/design/reading-list-for-designers/</id>
+			<title>Reading List for Designers</title>
+			<link href="/design/reading-list-for-designers/" rel="alternate" type="text/html" title="Reading List for Designers" />
+			<updated>2016-05-18T20:30:00-07:00</updated>
+
+			
+				
+				<author>
+					
+						<name>Frank</name>
+					
+					
+					
+						<uri>http://franctastik.github.io/</uri>
+					
+				</author>
+			
+			<summary>I signed up to the InVision mailing list, hoping to win a free t-shirt! It’s great marketing how they’re using this, plus free tools and content to attract site visits. It draws visitors to the company’s brand and hopefully for InVision, their paid applications.</summary>
+			<content type="html" xml:base="/design/reading-list-for-designers/">&lt;p&gt;I was hoping to get some interesting design tidbits out of their emails. One of the first emails they sent was a list of articles in the InVision blog. What caught my eye was a &lt;a href=&quot;http://blog.invisionapp.com/reading-list-for-designers/&quot; title=&quot;InVision Reading List&quot;&gt;reading list for designers&lt;/a&gt;. Again, that’s good marketing in action as InVision entices you with great free content.
+I’m curious to learn more about design and how to make my site look better, so I looked at this list.&lt;/p&gt;
+
+&lt;p&gt;By now I’m really thinking I’m a font nut as the first thing that caught my eye on the list is “Thinking with Type”. I’ve seen that being mentioned as a great read on fonts from a few sites, so I Google’d the book to see how much it would cost. As far as I can see, the &lt;a href=&quot;http://www.thinkingwithtype.com/&quot; title=&quot;Thinking with Type&quot;&gt;official site for the book&lt;/a&gt; has most, if not all, the content from the book for free. It’s a good read so far, with the author, Ellen Lupton, explaining the concepts well, without getting overly technical. She uses “Type Crimes” to illustrate the bad practices that should be avoided in typography, and her examples are sometimes amusing as well. Overall, this is a good read so far, and it looks to have a good coverage of the subject.&lt;/p&gt;
+
+</content>
+
+			
+				<category term="design" />
+			
+			
+				<category term="reading" />
+			
+
+			<published>2016-05-18T20:30:00-07:00</published>
+		</entry>
 	
 		<entry>
 			<id>/design/adobe-typekit-and-site-progress/</id>
@@ -320,79 +391,6 @@ It works well with body text but it doesn’t smartify front matter text. For ex
 			
 
 			<published>2016-03-26T22:52:00-07:00</published>
-		</entry>
-	
-		<entry>
-			<id>/design/font-pairings/</id>
-			<title>Canva’s Guide to Font Pairings</title>
-			<link href="/design/font-pairings/" rel="alternate" type="text/html" title="Canva’s Guide to Font Pairings" />
-			<updated>2016-03-22T22:20:00-07:00</updated>
-
-			
-				
-				<author>
-					
-						<name>Frank</name>
-					
-					
-					
-						<uri>http://franctastik.github.io/</uri>
-					
-				</author>
-			
-			<summary>Choosing the right font combination for your website can be difficult. There are some good sites which provide some inspirations and ideas for font pairings.</summary>
-			<content type="html" xml:base="/design/font-pairings/">&lt;p&gt;I’ve been browsing the web for font inspirations and font combinations. Smashing magazine’s &lt;a href=&quot;https://www.smashingmagazine.com/2010/12/what-font-should-i-use-five-principles-for-choosing-and-using-typefaces/&quot; title=&quot;Smashing&#39;s Font Pairing Guide&quot;&gt;guide&lt;/a&gt; is a good start, and there’s also &lt;a href=&quot;http://fontpair.co/&quot; title=&quot;Font Pair&quot;&gt;Font Pair&lt;/a&gt; as well.&lt;/p&gt;
-
-&lt;p&gt;I also found Canva’s &lt;a href=&quot;https://designschool.canva.com/blog/the-ultimate-guide-to-font-pairing/&quot; title=&quot;Canva&#39;s Font Pairing Guide&quot;&gt;guide&lt;/a&gt; to font pairings. It shows different font combinations with sample pages showing how the combinations apply to different themes for websites (tech, gallery, fashion).&lt;/p&gt;
-
-&lt;p&gt;It’s an inspirational and visual guide, with a variety of examples. The guide gives an overview of the fonts used and then gives some beautifully made sample designs to show how the fonts work. It’s a great start for design inspiration, and I like how they often give samples using the same font family. They really show how you can have a visual variety in the typography using only one font family, instead of several.&lt;/p&gt;
-
-</content>
-
-			
-				<category term="design" />
-			
-			
-				<category term="fonts" />
-			
-
-			<published>2016-03-22T22:20:00-07:00</published>
-		</entry>
-	
-		<entry>
-			<id>/design/typecast-font-playground/</id>
-			<title>Typecast Font Playground</title>
-			<link href="/design/typecast-font-playground/" rel="alternate" type="text/html" title="Typecast Font Playground" />
-			<updated>2016-03-18T16:04:00-07:00</updated>
-
-			
-				
-				<author>
-					
-						<name>Frank</name>
-					
-					
-					
-						<uri>http://franctastik.github.io/</uri>
-					
-				</author>
-			
-			<summary>Typecast is a great way to play with font combinations. It’s not perfect, but it’s free, and features prototyping with Google Fonts, all of which is great for a developer on a budget.</summary>
-			<content type="html" xml:base="/design/typecast-font-playground/">&lt;p&gt;After browsing the font sites, the fonts started looking the same. It was after some browsing that I wanted to find a way to better visualize how the fonts would look using actual text from my site, and through that search I found &lt;a href=&quot;http://typecast.com/&quot; title=&quot;typecast&quot;&gt;typecast&lt;/a&gt;.&lt;/p&gt;
-
-&lt;p&gt;If codepen is a playground for experimenting with HTML, CSS, and JavaScript, then typecast is a playground for font combinations. With typecast, you can lay out a sample page with your text and play with font selections for various styles. It’s much faster than coding font selections on your website in HTML and reloading your page to see how the fonts look. Using typecast is a great way to preview fonts before adding them into your project, so it speeds up the design process. The great thing is that you can use Google Fonts in your typecast prototypes.&lt;/p&gt;
-
-&lt;p&gt;While typecast is fun and convenient to use, I found a few minor issues that detracted from the user experience. First of all, your login session times out quickly on typecast. If you leave your browser for more than roughly 15-30 minutes, you web session times out and you have to log back in. When you do log back in, you’re not brought back to the typecast home page our your dashboard. It’s really just a minor flaw, given that it’s a free and very useful tool.&lt;/p&gt;
-</content>
-
-			
-				<category term="design" />
-			
-			
-				<category term="fonts" />
-			
-
-			<published>2016-03-18T16:04:00-07:00</published>
 		</entry>
 	
 </feed>
